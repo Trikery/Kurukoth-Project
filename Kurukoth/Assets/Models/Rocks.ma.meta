@@ -1,0 +1,522 @@
+fileFormatVersion: 2
+guid: 222fdf8d8fb114efab9f115081654099
+timeCreated: 1519931554
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: back
+    100002: Basalt
+    100004: Basalt_01_Geo
+    100006: Basalt_01_Geo 1
+    100008: Basalt_02_Geo
+    100010: Basalt_02_Geo 1
+    100012: Basalt_03_Geo
+    100014: Basalt_03_Geo 1
+    100016: Basalt_04_Geo
+    100018: Basalt_04_Geo 1
+    100020: Basalt_05_Geo
+    100022: Basalt_05_Geo 1
+    100024: Basalt_06_Geo
+    100026: Basalt_06_Geo 1
+    100028: Basalt_07_Geo
+    100030: Basalt_07_Geo 1
+    100032: Basalt_High_Poly
+    100034: bottom
+    100036: Karst
+    100038: Karst_01_Geo
+    100040: Karst_01_Geo 1
+    100042: Karst_02_Geo
+    100044: Karst_02_Geo 1
+    100046: Karst_03_Geo
+    100048: Karst_03_Geo 1
+    100050: Karst_04_Geo
+    100052: Karst_04_Geo 1
+    100054: Karst_05_Geo
+    100056: Karst_05_Geo 1
+    100058: Karst_06_Geo
+    100060: Karst_06_Geo 1
+    100062: Karst_07_Geo
+    100064: Karst_07_Geo 1
+    100066: Karst_High_Poly
+    100068: left
+    100070: Obsidian
+    100072: Obsidian_01_Geo
+    100074: Obsidian_01_Geo 1
+    100076: Obsidian_02_Geo
+    100078: Obsidian_02_Geo 1
+    100080: Obsidian_03_Geo
+    100082: Obsidian_03_Geo 1
+    100084: Obsidian_04_Geo
+    100086: Obsidian_04_Geo 1
+    100088: Obsidian_05_Geo
+    100090: Obsidian_05_Geo 1
+    100092: Obsidian_06_Geo
+    100094: Obsidian_06_Geo 1
+    100096: Obsidian_06_Geo1
+    100098: Obsidian_07_Geo
+    100100: Obsidian_07_Geo 1
+    100102: Obsidian_High_Poly
+    100104: persp1
+    100106: persp2
+    100108: polySurface10
+    100110: polySurface11
+    100112: polySurface12
+    100114: polySurface13
+    100116: polySurface14
+    100118: polySurface15
+    100120: polySurface16
+    100122: polySurface17
+    100124: polySurface18
+    100126: polySurface19
+    100128: polySurface2
+    100130: polySurface20
+    100132: polySurface21
+    100134: polySurface22
+    100136: polySurface23
+    100138: polySurface24
+    100140: polySurface25
+    100142: polySurface26
+    100144: polySurface27
+    100146: polySurface28
+    100148: polySurface29
+    100150: polySurface3
+    100152: polySurface30
+    100154: polySurface31
+    100156: polySurface32
+    100158: polySurface33
+    100160: polySurface34
+    100162: polySurface35
+    100164: polySurface36
+    100166: polySurface37
+    100168: polySurface38
+    100170: polySurface39
+    100172: polySurface4
+    100174: polySurface40
+    100176: polySurface41
+    100178: polySurface5
+    100180: polySurface6
+    100182: polySurface7
+    100184: polySurface8
+    100186: polySurface9
+    100188: //RootNode
+    100190: transform1
+    100192: transform2
+    100194: transform3
+    100196: transform4
+    100198: transform5
+    100200: transform6
+    400000: back
+    400002: Basalt
+    400004: Basalt_01_Geo
+    400006: Basalt_01_Geo 1
+    400008: Basalt_02_Geo
+    400010: Basalt_02_Geo 1
+    400012: Basalt_03_Geo
+    400014: Basalt_03_Geo 1
+    400016: Basalt_04_Geo
+    400018: Basalt_04_Geo 1
+    400020: Basalt_05_Geo
+    400022: Basalt_05_Geo 1
+    400024: Basalt_06_Geo
+    400026: Basalt_06_Geo 1
+    400028: Basalt_07_Geo
+    400030: Basalt_07_Geo 1
+    400032: Basalt_High_Poly
+    400034: bottom
+    400036: Karst
+    400038: Karst_01_Geo
+    400040: Karst_01_Geo 1
+    400042: Karst_02_Geo
+    400044: Karst_02_Geo 1
+    400046: Karst_03_Geo
+    400048: Karst_03_Geo 1
+    400050: Karst_04_Geo
+    400052: Karst_04_Geo 1
+    400054: Karst_05_Geo
+    400056: Karst_05_Geo 1
+    400058: Karst_06_Geo
+    400060: Karst_06_Geo 1
+    400062: Karst_07_Geo
+    400064: Karst_07_Geo 1
+    400066: Karst_High_Poly
+    400068: left
+    400070: Obsidian
+    400072: Obsidian_01_Geo
+    400074: Obsidian_01_Geo 1
+    400076: Obsidian_02_Geo
+    400078: Obsidian_02_Geo 1
+    400080: Obsidian_03_Geo
+    400082: Obsidian_03_Geo 1
+    400084: Obsidian_04_Geo
+    400086: Obsidian_04_Geo 1
+    400088: Obsidian_05_Geo
+    400090: Obsidian_05_Geo 1
+    400092: Obsidian_06_Geo
+    400094: Obsidian_06_Geo 1
+    400096: Obsidian_06_Geo1
+    400098: Obsidian_07_Geo
+    400100: Obsidian_07_Geo 1
+    400102: Obsidian_High_Poly
+    400104: persp1
+    400106: persp2
+    400108: polySurface10
+    400110: polySurface11
+    400112: polySurface12
+    400114: polySurface13
+    400116: polySurface14
+    400118: polySurface15
+    400120: polySurface16
+    400122: polySurface17
+    400124: polySurface18
+    400126: polySurface19
+    400128: polySurface2
+    400130: polySurface20
+    400132: polySurface21
+    400134: polySurface22
+    400136: polySurface23
+    400138: polySurface24
+    400140: polySurface25
+    400142: polySurface26
+    400144: polySurface27
+    400146: polySurface28
+    400148: polySurface29
+    400150: polySurface3
+    400152: polySurface30
+    400154: polySurface31
+    400156: polySurface32
+    400158: polySurface33
+    400160: polySurface34
+    400162: polySurface35
+    400164: polySurface36
+    400166: polySurface37
+    400168: polySurface38
+    400170: polySurface39
+    400172: polySurface4
+    400174: polySurface40
+    400176: polySurface41
+    400178: polySurface5
+    400180: polySurface6
+    400182: polySurface7
+    400184: polySurface8
+    400186: polySurface9
+    400188: //RootNode
+    400190: transform1
+    400192: transform2
+    400194: transform3
+    400196: transform4
+    400198: transform5
+    400200: transform6
+    2000000: back
+    2000002: bottom
+    2000004: left
+    2000006: persp1
+    2000008: persp2
+    2300000: Basalt_01_Geo
+    2300002: Basalt_01_Geo 1
+    2300004: Basalt_02_Geo 1
+    2300006: Basalt_03_Geo 1
+    2300008: Basalt_04_Geo 1
+    2300010: Basalt_05_Geo 1
+    2300012: Basalt_06_Geo 1
+    2300014: Basalt_07_Geo 1
+    2300016: Karst_01_Geo
+    2300018: Karst_01_Geo 1
+    2300020: Karst_02_Geo
+    2300022: Karst_02_Geo 1
+    2300024: Karst_03_Geo
+    2300026: Karst_03_Geo 1
+    2300028: Karst_04_Geo
+    2300030: Karst_04_Geo 1
+    2300032: Karst_05_Geo
+    2300034: Karst_05_Geo 1
+    2300036: Karst_06_Geo
+    2300038: Karst_06_Geo 1
+    2300040: Karst_07_Geo
+    2300042: Karst_07_Geo 1
+    2300044: Obsidian_01_Geo
+    2300046: Obsidian_01_Geo 1
+    2300048: Obsidian_02_Geo
+    2300050: Obsidian_02_Geo 1
+    2300052: Obsidian_03_Geo
+    2300054: Obsidian_03_Geo 1
+    2300056: Obsidian_04_Geo
+    2300058: Obsidian_04_Geo 1
+    2300060: Obsidian_05_Geo
+    2300062: Obsidian_05_Geo 1
+    2300064: Obsidian_06_Geo
+    2300066: Obsidian_06_Geo 1
+    2300068: Obsidian_06_Geo1
+    2300070: Obsidian_07_Geo
+    2300072: Obsidian_07_Geo 1
+    2300074: polySurface10
+    2300076: polySurface11
+    2300078: polySurface12
+    2300080: polySurface13
+    2300082: polySurface14
+    2300084: polySurface15
+    2300086: polySurface16
+    2300088: polySurface17
+    2300090: polySurface18
+    2300092: polySurface19
+    2300094: polySurface2
+    2300096: polySurface20
+    2300098: polySurface21
+    2300100: polySurface22
+    2300102: polySurface23
+    2300104: polySurface24
+    2300106: polySurface25
+    2300108: polySurface26
+    2300110: polySurface27
+    2300112: polySurface28
+    2300114: polySurface29
+    2300116: polySurface3
+    2300118: polySurface30
+    2300120: polySurface31
+    2300122: polySurface32
+    2300124: polySurface33
+    2300126: polySurface34
+    2300128: polySurface35
+    2300130: polySurface36
+    2300132: polySurface37
+    2300134: polySurface38
+    2300136: polySurface39
+    2300138: polySurface4
+    2300140: polySurface40
+    2300142: polySurface41
+    2300144: polySurface5
+    2300146: polySurface6
+    2300148: polySurface7
+    2300150: polySurface8
+    2300152: polySurface9
+    3300000: Basalt_01_Geo
+    3300002: Basalt_01_Geo 1
+    3300004: Basalt_02_Geo 1
+    3300006: Basalt_03_Geo 1
+    3300008: Basalt_04_Geo 1
+    3300010: Basalt_05_Geo 1
+    3300012: Basalt_06_Geo 1
+    3300014: Basalt_07_Geo 1
+    3300016: Karst_01_Geo
+    3300018: Karst_01_Geo 1
+    3300020: Karst_02_Geo
+    3300022: Karst_02_Geo 1
+    3300024: Karst_03_Geo
+    3300026: Karst_03_Geo 1
+    3300028: Karst_04_Geo
+    3300030: Karst_04_Geo 1
+    3300032: Karst_05_Geo
+    3300034: Karst_05_Geo 1
+    3300036: Karst_06_Geo
+    3300038: Karst_06_Geo 1
+    3300040: Karst_07_Geo
+    3300042: Karst_07_Geo 1
+    3300044: Obsidian_01_Geo
+    3300046: Obsidian_01_Geo 1
+    3300048: Obsidian_02_Geo
+    3300050: Obsidian_02_Geo 1
+    3300052: Obsidian_03_Geo
+    3300054: Obsidian_03_Geo 1
+    3300056: Obsidian_04_Geo
+    3300058: Obsidian_04_Geo 1
+    3300060: Obsidian_05_Geo
+    3300062: Obsidian_05_Geo 1
+    3300064: Obsidian_06_Geo
+    3300066: Obsidian_06_Geo 1
+    3300068: Obsidian_06_Geo1
+    3300070: Obsidian_07_Geo
+    3300072: Obsidian_07_Geo 1
+    3300074: polySurface10
+    3300076: polySurface11
+    3300078: polySurface12
+    3300080: polySurface13
+    3300082: polySurface14
+    3300084: polySurface15
+    3300086: polySurface16
+    3300088: polySurface17
+    3300090: polySurface18
+    3300092: polySurface19
+    3300094: polySurface2
+    3300096: polySurface20
+    3300098: polySurface21
+    3300100: polySurface22
+    3300102: polySurface23
+    3300104: polySurface24
+    3300106: polySurface25
+    3300108: polySurface26
+    3300110: polySurface27
+    3300112: polySurface28
+    3300114: polySurface29
+    3300116: polySurface3
+    3300118: polySurface30
+    3300120: polySurface31
+    3300122: polySurface32
+    3300124: polySurface33
+    3300126: polySurface34
+    3300128: polySurface35
+    3300130: polySurface36
+    3300132: polySurface37
+    3300134: polySurface38
+    3300136: polySurface39
+    3300138: polySurface4
+    3300140: polySurface40
+    3300142: polySurface41
+    3300144: polySurface5
+    3300146: polySurface6
+    3300148: polySurface7
+    3300150: polySurface8
+    3300152: polySurface9
+    4300000: Obsidian_01_Geo
+    4300002: Obsidian_02_Geo
+    4300004: Obsidian_03_Geo
+    4300006: Obsidian_04_Geo
+    4300008: Obsidian_05_Geo
+    4300010: Obsidian_06_Geo
+    4300012: Obsidian_07_Geo
+    4300014: Obsidian_06_Geo1
+    4300016: Karst_01_Geo
+    4300018: Karst_02_Geo
+    4300020: Karst_03_Geo
+    4300022: Karst_04_Geo
+    4300024: Karst_05_Geo
+    4300026: Karst_06_Geo
+    4300028: Karst_07_Geo
+    4300030: Basalt_01_Geo
+    4300032: polySurface2
+    4300034: polySurface3
+    4300036: polySurface4
+    4300038: polySurface5
+    4300040: polySurface12
+    4300042: polySurface13
+    4300044: polySurface14
+    4300046: polySurface15
+    4300048: polySurface16
+    4300050: polySurface17
+    4300052: polySurface18
+    4300054: polySurface19
+    4300056: polySurface20
+    4300058: polySurface21
+    4300060: polySurface22
+    4300062: polySurface26
+    4300064: polySurface27
+    4300066: polySurface28
+    4300068: polySurface29
+    4300070: polySurface30
+    4300072: polySurface31
+    4300074: polySurface32
+    4300076: polySurface33
+    4300078: polySurface34
+    4300080: polySurface35
+    4300082: polySurface36
+    4300084: polySurface6
+    4300086: polySurface7
+    4300088: polySurface8
+    4300090: polySurface9
+    4300092: polySurface10
+    4300094: polySurface11
+    4300096: polySurface23
+    4300098: polySurface24
+    4300100: polySurface25
+    4300102: polySurface37
+    4300104: polySurface38
+    4300106: polySurface39
+    4300108: polySurface40
+    4300110: polySurface41
+    4300112: Obsidian_01_Geo
+    4300114: Obsidian_02_Geo
+    4300116: Obsidian_03_Geo
+    4300118: Obsidian_04_Geo
+    4300120: Obsidian_05_Geo
+    4300122: Obsidian_06_Geo
+    4300124: Obsidian_07_Geo
+    4300126: Basalt_01_Geo
+    4300128: Basalt_02_Geo
+    4300130: Basalt_03_Geo
+    4300132: Basalt_04_Geo
+    4300134: Basalt_05_Geo
+    4300136: Basalt_06_Geo
+    4300138: Basalt_07_Geo
+    4300140: Karst_01_Geo
+    4300142: Karst_02_Geo
+    4300144: Karst_03_Geo
+    4300146: Karst_04_Geo
+    4300148: Karst_05_Geo
+    4300150: Karst_06_Geo
+    4300152: Karst_07_Geo
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

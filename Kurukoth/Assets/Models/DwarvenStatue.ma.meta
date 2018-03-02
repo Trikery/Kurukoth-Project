@@ -1,0 +1,199 @@
+fileFormatVersion: 2
+guid: 238eb27c92b79461ab65efabda4bc961
+timeCreated: 1519931555
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Belt
+    100002: Body
+    100004: body1
+    100006: Cup1
+    100008: Cup1 1
+    100010: Cup2
+    100012: //RootNode
+    100014: Hammer
+    100016: Hammer 1
+    100018: Hammer_Head
+    100020: Hammer_Stick
+    100022: Handle
+    100024: head
+    100026: head 1
+    100028: HelmetOrnament
+    100030: High_res
+    100032: Low_Res
+    100034: pads
+    100036: pads 1
+    100038: pCube1
+    100040: pCube3
+    100042: pCube4
+    100044: pCube4 1
+    100046: pCylinder2
+    100048: pCylinder3
+    100050: pCylinder3 1
+    100052: pSphere1
+    100054: Tankard
+    400000: Belt
+    400002: Body
+    400004: body1
+    400006: Cup1
+    400008: Cup1 1
+    400010: Cup2
+    400012: //RootNode
+    400014: Hammer
+    400016: Hammer 1
+    400018: Hammer_Head
+    400020: Hammer_Stick
+    400022: Handle
+    400024: head
+    400026: head 1
+    400028: HelmetOrnament
+    400030: High_res
+    400032: Low_Res
+    400034: pads
+    400036: pads 1
+    400038: pCube1
+    400040: pCube3
+    400042: pCube4
+    400044: pCube4 1
+    400046: pCylinder2
+    400048: pCylinder3
+    400050: pCylinder3 1
+    400052: pSphere1
+    400054: Tankard
+    2300000: Belt
+    2300002: Body
+    2300004: body1
+    2300006: Hammer_Head
+    2300008: Hammer_Stick
+    2300010: Handle
+    2300012: head
+    2300014: head 1
+    2300016: HelmetOrnament
+    2300018: pads
+    2300020: pads 1
+    2300022: pCube1
+    2300024: pCube3
+    2300026: pCube4
+    2300028: pCube4 1
+    2300030: pCylinder2
+    2300032: pCylinder3
+    2300034: pCylinder3 1
+    2300036: pSphere1
+    2300038: Tankard
+    3300000: Belt
+    3300002: Body
+    3300004: body1
+    3300006: Hammer_Head
+    3300008: Hammer_Stick
+    3300010: Handle
+    3300012: head
+    3300014: head 1
+    3300016: HelmetOrnament
+    3300018: pads
+    3300020: pads 1
+    3300022: pCube1
+    3300024: pCube3
+    3300026: pCube4
+    3300028: pCube4 1
+    3300030: pCylinder2
+    3300032: pCylinder3
+    3300034: pCylinder3 1
+    3300036: pSphere1
+    3300038: Tankard
+    4300000: pads
+    4300002: head
+    4300004: body1
+    4300006: pSphere1
+    4300008: pCylinder3
+    4300010: pCube4
+    4300012: pCylinder3
+    4300014: pCube4
+    4300016: pCube1
+    4300018: pCylinder2
+    4300020: pCube3
+    4300022: pads
+    4300024: head
+    4300026: Body
+    4300028: HelmetOrnament
+    4300030: Tankard
+    4300032: Handle
+    4300034: Hammer_Head
+    4300036: Hammer_Stick
+    4300038: Belt
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1706 @@
+fileFormatVersion: 2
+guid: 37ff95650a15045cdbe9ad990e5bce7b
+timeCreated: 1516847345
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: back
+    100002: Big_Bridge
+    100004: Buttress
+    100006: Buttruss01:pCylinder1
+    100008: Gate:Gate
+    100010: Gate:L_Gate_Ctrl
+    100012: Gate:L_Gate_Ctrl1
+    100014: Gate:L_Gate_Ctrl_Grp
+    100016: Gate:L_Gate_Ctrl_Grp1
+    100018: Gate:pCube1
+    100020: Gate:pCube10
+    100022: Gate:pCube11
+    100024: Gate:pCube9
+    100026: Great_Lava_Bridge:pCube1
+    100028: group1
+    100030: imagePlane1
+    100032: //RootNode
+    100034: L_Wall
+    100036: Large_Building:Cave
+    100038: Large_Building:Doors
+    100040: Large_Building:Gate
+    100042: Large_Building:group1
+    100044: Large_Building:group1 1
+    100046: Large_Building:group2
+    100048: Large_Building:L_Gate_Ctrl
+    100050: Large_Building:L_Gate_Ctrl1
+    100052: Large_Building:L_Gate_Ctrl_Grp
+    100054: Large_Building:L_Gate_Ctrl_Grp1
+    100056: Large_Building:Large_Building:polySurface8
+    100058: Large_Building:Lava
+    100060: Large_Building:Lava1
+    100062: Large_Building:Left_Building
+    100064: Large_Building:Left_River
+    100066: Large_Building:Main_Building_Stairs
+    100068: Large_Building:pCube1
+    100070: Large_Building:pCube1 1
+    100072: Large_Building:pCube10
+    100074: Large_Building:pCube10 1
+    100076: Large_Building:pCube11
+    100078: Large_Building:pCube11 1
+    100080: Large_Building:pCube12
+    100082: Large_Building:pCube13
+    100084: Large_Building:pCube14
+    100086: Large_Building:pCube15
+    100088: Large_Building:pCube16
+    100090: Large_Building:pCube17
+    100092: Large_Building:pCube2
+    100094: Large_Building:pCube21
+    100096: Large_Building:pCube21 1
+    100098: Large_Building:pCube22
+    100100: Large_Building:pCube22 1
+    100102: Large_Building:pCube23
+    100104: Large_Building:pCube23 1
+    100106: Large_Building:pCube24
+    100108: Large_Building:pCube24 1
+    100110: Large_Building:pCube25
+    100112: Large_Building:pCube25 1
+    100114: Large_Building:pCube26
+    100116: Large_Building:pCube26 1
+    100118: Large_Building:pCube27
+    100120: Large_Building:pCube27 1
+    100122: Large_Building:pCube28
+    100124: Large_Building:pCube28 1
+    100126: Large_Building:pCube29
+    100128: Large_Building:pCube29 1
+    100130: Large_Building:pCube30
+    100132: Large_Building:pCube30 1
+    100134: Large_Building:pCube31
+    100136: Large_Building:pCube31 1
+    100138: Large_Building:pCube32
+    100140: Large_Building:pCube32 1
+    100142: Large_Building:pCube35
+    100144: Large_Building:pCube35 1
+    100146: Large_Building:pCube36
+    100148: Large_Building:pCube36 1
+    100150: Large_Building:pCube37
+    100152: Large_Building:pCube37 1
+    100154: Large_Building:pCube38
+    100156: Large_Building:pCube38 1
+    100158: Large_Building:pCube39
+    100160: Large_Building:pCube39 1
+    100162: Large_Building:pCube40
+    100164: Large_Building:pCube40 1
+    100166: Large_Building:pCube41
+    100168: Large_Building:pCube41 1
+    100170: Large_Building:pCube42
+    100172: Large_Building:pCube42 1
+    100174: Large_Building:pCube43
+    100176: Large_Building:pCube43 1
+    100178: Large_Building:pCube44
+    100180: Large_Building:pCube44 1
+    100182: Large_Building:pCube45
+    100184: Large_Building:pCube45 1
+    100186: Large_Building:pCube46
+    100188: Large_Building:pCube46 1
+    100190: Large_Building:pCube47
+    100192: Large_Building:pCube48
+    100194: Large_Building:pCube49
+    100196: Large_Building:pCube50
+    100198: Large_Building:pCube51
+    100200: Large_Building:pCube52
+    100202: Large_Building:pCube54
+    100204: Large_Building:pCube55
+    100206: Large_Building:pCube56
+    100208: Large_Building:pCube57
+    100210: Large_Building:pCube57 1
+    100212: Large_Building:pCube58
+    100214: Large_Building:pCube58 1
+    100216: Large_Building:pCube6
+    100218: Large_Building:pCube7
+    100220: Large_Building:pCube8
+    100222: Large_Building:pCube9
+    100224: Large_Building:pCube9 1
+    100226: Large_Building:pCylinder1
+    100228: Large_Building:pCylinder1 1
+    100230: Large_Building:pCylinder13
+    100232: Large_Building:pCylinder15
+    100234: Large_Building:pCylinder16
+    100236: Large_Building:pCylinder17
+    100238: Large_Building:pCylinder18
+    100240: Large_Building:pCylinder19
+    100242: Large_Building:pCylinder20
+    100244: Large_Building:pCylinder21
+    100246: Large_Building:pCylinder22
+    100248: Large_Building:pCylinder23
+    100250: Large_Building:pCylinder24
+    100252: Large_Building:polySurface1
+    100254: Large_Building:polySurface1 1
+    100256: Large_Building:polySurface2
+    100258: Large_Building:polySurface2 1
+    100260: Large_Building:polySurface8
+    100262: Large_Building:Right_Building
+    100264: Large_Building:Right_River
+    100266: Large_Building:Rock_Pillars
+    100268: Large_Building:Room_1
+    100270: Large_Building:Room_2
+    100272: Large_Building:Rooms
+    100274: Large_Building:Stair_Bridges
+    100276: Large_Building:Statue
+    100278: Large_Building:Temple_Level
+    100280: LavaStatue:pCube1
+    100282: LavaStatue:pCube2
+    100284: LavaStatue:pCube3
+    100286: Main_Building
+    100288: Outer_Wall
+    100290: pCube1
+    100292: pCube2
+    100294: pCube21
+    100296: pCube22
+    100298: pCube23
+    100300: pCube24
+    100302: pCube25
+    100304: pCube26
+    100306: pCube27
+    100308: pCube28
+    100310: pCube29
+    100312: pCube3
+    100314: pCube30
+    100316: pCube31
+    100318: pCube32
+    100320: pCube35
+    100322: pCube36
+    100324: pCube37
+    100326: pCube38
+    100328: pCube39
+    100330: pCube4
+    100332: pCube40
+    100334: pCube41
+    100336: pCube42
+    100338: pCube43
+    100340: pCube44
+    100342: pCube45
+    100344: pCube46
+    100346: pCube53
+    100348: pCube54
+    100350: pCube55
+    100352: pCube56
+    100354: pCube57
+    100356: pCube58
+    100358: pCube59
+    100360: pCylinder1
+    100362: pCylinder1 1
+    100364: pCylinder1 2
+    100366: pCylinder10
+    100368: pCylinder11
+    100370: pCylinder12
+    100372: pCylinder13
+    100374: pCylinder14
+    100376: pCylinder15
+    100378: pCylinder17
+    100380: pCylinder2
+    100382: pCylinder3
+    100384: pCylinder4
+    100386: pCylinder5
+    100388: pCylinder6
+    100390: pCylinder7
+    100392: pCylinder8
+    100394: pCylinder9
+    100396: polySurface1
+    100398: polySurface1 1
+    100400: polySurface2
+    100402: R_Wall
+    100404: Rock_Platforms
+    100406: RockBridge01:pCube3
+    100408: small_bridge:pCube1
+    100410: Start_Precipice
+    100412: pCube1 1
+    100414: pCube2 1
+    100416: pCube3 1
+    100418: pCube5
+    100420: pCube6
+    100422: pCylinder1 3
+    100424: pCylinder2 1
+    100426: pCylinder3 1
+    100428: pCylinder4 1
+    100430: polySurface1 2
+    100432: polySurface10
+    100434: polySurface11
+    100436: polySurface12
+    100438: polySurface13
+    100440: polySurface14
+    100442: polySurface15
+    100444: polySurface16
+    100446: polySurface17
+    100448: polySurface18
+    100450: polySurface19
+    100452: polySurface2 1
+    100454: polySurface20
+    100456: polySurface21
+    100458: polySurface22
+    100460: polySurface23
+    100462: polySurface24
+    100464: polySurface25
+    100466: polySurface26
+    100468: polySurface27
+    100470: polySurface28
+    100472: polySurface29
+    100474: polySurface3
+    100476: polySurface30
+    100478: polySurface31
+    100480: polySurface32
+    100482: polySurface33
+    100484: polySurface34
+    100486: polySurface35
+    100488: polySurface36
+    100490: polySurface37
+    100492: polySurface38
+    100494: polySurface39
+    100496: polySurface4
+    100498: polySurface40
+    100500: polySurface41
+    100502: polySurface42
+    100504: polySurface43
+    100506: polySurface44
+    100508: polySurface45
+    100510: polySurface46
+    100512: polySurface47
+    100514: polySurface48
+    100516: polySurface49
+    100518: polySurface5
+    100520: polySurface50
+    100522: polySurface6
+    100524: polySurface7
+    100526: polySurface8
+    100528: polySurface9
+    100530: Rope_Bridge
+    100532: Rope_Bridge01:pCube1
+    100534: Rope_Bridge01:pCube2
+    100536: Rope_Bridge01:pCube3
+    100538: Rope_Bridge01:pCube5
+    100540: Rope_Bridge01:pCube6
+    100542: Rope_Bridge01:pCylinder1
+    100544: Rope_Bridge01:pCylinder2
+    100546: Rope_Bridge01:pCylinder3
+    100548: Rope_Bridge01:pCylinder4
+    100550: Rope_Bridge01:polySurface1
+    100552: Rope_Bridge01:polySurface10
+    100554: Rope_Bridge01:polySurface11
+    100556: Rope_Bridge01:polySurface12
+    100558: Rope_Bridge01:polySurface13
+    100560: Rope_Bridge01:polySurface14
+    100562: Rope_Bridge01:polySurface15
+    100564: Rope_Bridge01:polySurface16
+    100566: Rope_Bridge01:polySurface17
+    100568: Rope_Bridge01:polySurface18
+    100570: Rope_Bridge01:polySurface19
+    100572: Rope_Bridge01:polySurface2
+    100574: Rope_Bridge01:polySurface20
+    100576: Rope_Bridge01:polySurface21
+    100578: Rope_Bridge01:polySurface22
+    100580: Rope_Bridge01:polySurface23
+    100582: Rope_Bridge01:polySurface24
+    100584: Rope_Bridge01:polySurface25
+    100586: Rope_Bridge01:polySurface26
+    100588: Rope_Bridge01:polySurface27
+    100590: Rope_Bridge01:polySurface28
+    100592: Rope_Bridge01:polySurface29
+    100594: Rope_Bridge01:polySurface3
+    100596: Rope_Bridge01:polySurface30
+    100598: Rope_Bridge01:polySurface31
+    100600: Rope_Bridge01:polySurface32
+    100602: Rope_Bridge01:polySurface33
+    100604: Rope_Bridge01:polySurface34
+    100606: Rope_Bridge01:polySurface35
+    100608: Rope_Bridge01:polySurface36
+    100610: Rope_Bridge01:polySurface37
+    100612: Rope_Bridge01:polySurface38
+    100614: Rope_Bridge01:polySurface39
+    100616: Rope_Bridge01:polySurface4
+    100618: Rope_Bridge01:polySurface40
+    100620: Rope_Bridge01:polySurface41
+    100622: Rope_Bridge01:polySurface42
+    100624: Rope_Bridge01:polySurface43
+    100626: Rope_Bridge01:polySurface44
+    100628: Rope_Bridge01:polySurface45
+    100630: Rope_Bridge01:polySurface46
+    100632: Rope_Bridge01:polySurface47
+    100634: Rope_Bridge01:polySurface48
+    100636: Rope_Bridge01:polySurface49
+    100638: Rope_Bridge01:polySurface5
+    100640: Rope_Bridge01:polySurface50
+    100642: Rope_Bridge01:polySurface6
+    100644: Rope_Bridge01:polySurface7
+    100646: Rope_Bridge01:polySurface8
+    100648: Rope_Bridge01:polySurface9
+    100650: Rope_Bridge1
+    100652: transform1
+    100654: Room_1
+    100656: Buttress_Center
+    100658: Cave_Walls
+    100660: Large_Building:Ornament
+    100662: Large_Building:Ornament1
+    100664: Large_Building:Ornament2
+    100666: Large_Building:Ornament3
+    100668: Large_Building:Post
+    100670: Large_Building:Post1
+    100672: Large_Building:Post2
+    100674: Large_Building:Post3
+    100676: Large_Building:River_Bed
+    100678: Large_Building:small_Brg
+    100680: left
+    100682: Main_Structure
+    100684: pCube47
+    100686: pCube48
+    100688: pCylinder18
+    100690: pCylinder19
+    100692: polySurface51
+    100694: polySurface52
+    100696: polySurface53
+    100698: polySurface54
+    100700: polySurface55
+    400000: back
+    400002: Big_Bridge
+    400004: Buttress
+    400006: Buttruss01:pCylinder1
+    400008: Gate:Gate
+    400010: Gate:L_Gate_Ctrl
+    400012: Gate:L_Gate_Ctrl1
+    400014: Gate:L_Gate_Ctrl_Grp
+    400016: Gate:L_Gate_Ctrl_Grp1
+    400018: Gate:pCube1
+    400020: Gate:pCube10
+    400022: Gate:pCube11
+    400024: Gate:pCube9
+    400026: Great_Lava_Bridge:pCube1
+    400028: group1
+    400030: imagePlane1
+    400032: //RootNode
+    400034: L_Wall
+    400036: Large_Building:Cave
+    400038: Large_Building:Doors
+    400040: Large_Building:Gate
+    400042: Large_Building:group1
+    400044: Large_Building:group1 1
+    400046: Large_Building:group2
+    400048: Large_Building:L_Gate_Ctrl
+    400050: Large_Building:L_Gate_Ctrl1
+    400052: Large_Building:L_Gate_Ctrl_Grp
+    400054: Large_Building:L_Gate_Ctrl_Grp1
+    400056: Large_Building:Large_Building:polySurface8
+    400058: Large_Building:Lava
+    400060: Large_Building:Lava1
+    400062: Large_Building:Left_Building
+    400064: Large_Building:Left_River
+    400066: Large_Building:Main_Building_Stairs
+    400068: Large_Building:pCube1
+    400070: Large_Building:pCube1 1
+    400072: Large_Building:pCube10
+    400074: Large_Building:pCube10 1
+    400076: Large_Building:pCube11
+    400078: Large_Building:pCube11 1
+    400080: Large_Building:pCube12
+    400082: Large_Building:pCube13
+    400084: Large_Building:pCube14
+    400086: Large_Building:pCube15
+    400088: Large_Building:pCube16
+    400090: Large_Building:pCube17
+    400092: Large_Building:pCube2
+    400094: Large_Building:pCube21
+    400096: Large_Building:pCube21 1
+    400098: Large_Building:pCube22
+    400100: Large_Building:pCube22 1
+    400102: Large_Building:pCube23
+    400104: Large_Building:pCube23 1
+    400106: Large_Building:pCube24
+    400108: Large_Building:pCube24 1
+    400110: Large_Building:pCube25
+    400112: Large_Building:pCube25 1
+    400114: Large_Building:pCube26
+    400116: Large_Building:pCube26 1
+    400118: Large_Building:pCube27
+    400120: Large_Building:pCube27 1
+    400122: Large_Building:pCube28
+    400124: Large_Building:pCube28 1
+    400126: Large_Building:pCube29
+    400128: Large_Building:pCube29 1
+    400130: Large_Building:pCube30
+    400132: Large_Building:pCube30 1
+    400134: Large_Building:pCube31
+    400136: Large_Building:pCube31 1
+    400138: Large_Building:pCube32
+    400140: Large_Building:pCube32 1
+    400142: Large_Building:pCube35
+    400144: Large_Building:pCube35 1
+    400146: Large_Building:pCube36
+    400148: Large_Building:pCube36 1
+    400150: Large_Building:pCube37
+    400152: Large_Building:pCube37 1
+    400154: Large_Building:pCube38
+    400156: Large_Building:pCube38 1
+    400158: Large_Building:pCube39
+    400160: Large_Building:pCube39 1
+    400162: Large_Building:pCube40
+    400164: Large_Building:pCube40 1
+    400166: Large_Building:pCube41
+    400168: Large_Building:pCube41 1
+    400170: Large_Building:pCube42
+    400172: Large_Building:pCube42 1
+    400174: Large_Building:pCube43
+    400176: Large_Building:pCube43 1
+    400178: Large_Building:pCube44
+    400180: Large_Building:pCube44 1
+    400182: Large_Building:pCube45
+    400184: Large_Building:pCube45 1
+    400186: Large_Building:pCube46
+    400188: Large_Building:pCube46 1
+    400190: Large_Building:pCube47
+    400192: Large_Building:pCube48
+    400194: Large_Building:pCube49
+    400196: Large_Building:pCube50
+    400198: Large_Building:pCube51
+    400200: Large_Building:pCube52
+    400202: Large_Building:pCube54
+    400204: Large_Building:pCube55
+    400206: Large_Building:pCube56
+    400208: Large_Building:pCube57
+    400210: Large_Building:pCube57 1
+    400212: Large_Building:pCube58
+    400214: Large_Building:pCube58 1
+    400216: Large_Building:pCube6
+    400218: Large_Building:pCube7
+    400220: Large_Building:pCube8
+    400222: Large_Building:pCube9
+    400224: Large_Building:pCube9 1
+    400226: Large_Building:pCylinder1
+    400228: Large_Building:pCylinder1 1
+    400230: Large_Building:pCylinder13
+    400232: Large_Building:pCylinder15
+    400234: Large_Building:pCylinder16
+    400236: Large_Building:pCylinder17
+    400238: Large_Building:pCylinder18
+    400240: Large_Building:pCylinder19
+    400242: Large_Building:pCylinder20
+    400244: Large_Building:pCylinder21
+    400246: Large_Building:pCylinder22
+    400248: Large_Building:pCylinder23
+    400250: Large_Building:pCylinder24
+    400252: Large_Building:polySurface1
+    400254: Large_Building:polySurface1 1
+    400256: Large_Building:polySurface2
+    400258: Large_Building:polySurface2 1
+    400260: Large_Building:polySurface8
+    400262: Large_Building:Right_Building
+    400264: Large_Building:Right_River
+    400266: Large_Building:Rock_Pillars
+    400268: Large_Building:Room_1
+    400270: Large_Building:Room_2
+    400272: Large_Building:Rooms
+    400274: Large_Building:Stair_Bridges
+    400276: Large_Building:Statue
+    400278: Large_Building:Temple_Level
+    400280: LavaStatue:pCube1
+    400282: LavaStatue:pCube2
+    400284: LavaStatue:pCube3
+    400286: Main_Building
+    400288: Outer_Wall
+    400290: pCube1
+    400292: pCube2
+    400294: pCube21
+    400296: pCube22
+    400298: pCube23
+    400300: pCube24
+    400302: pCube25
+    400304: pCube26
+    400306: pCube27
+    400308: pCube28
+    400310: pCube29
+    400312: pCube3
+    400314: pCube30
+    400316: pCube31
+    400318: pCube32
+    400320: pCube35
+    400322: pCube36
+    400324: pCube37
+    400326: pCube38
+    400328: pCube39
+    400330: pCube4
+    400332: pCube40
+    400334: pCube41
+    400336: pCube42
+    400338: pCube43
+    400340: pCube44
+    400342: pCube45
+    400344: pCube46
+    400346: pCube53
+    400348: pCube54
+    400350: pCube55
+    400352: pCube56
+    400354: pCube57
+    400356: pCube58
+    400358: pCube59
+    400360: pCylinder1
+    400362: pCylinder1 1
+    400364: pCylinder1 2
+    400366: pCylinder10
+    400368: pCylinder11
+    400370: pCylinder12
+    400372: pCylinder13
+    400374: pCylinder14
+    400376: pCylinder15
+    400378: pCylinder17
+    400380: pCylinder2
+    400382: pCylinder3
+    400384: pCylinder4
+    400386: pCylinder5
+    400388: pCylinder6
+    400390: pCylinder7
+    400392: pCylinder8
+    400394: pCylinder9
+    400396: polySurface1
+    400398: polySurface1 1
+    400400: polySurface2
+    400402: R_Wall
+    400404: Rock_Platforms
+    400406: RockBridge01:pCube3
+    400408: small_bridge:pCube1
+    400410: Start_Precipice
+    400412: pCube1 1
+    400414: pCube2 1
+    400416: pCube3 1
+    400418: pCube5
+    400420: pCube6
+    400422: pCylinder1 3
+    400424: pCylinder2 1
+    400426: pCylinder3 1
+    400428: pCylinder4 1
+    400430: polySurface1 2
+    400432: polySurface10
+    400434: polySurface11
+    400436: polySurface12
+    400438: polySurface13
+    400440: polySurface14
+    400442: polySurface15
+    400444: polySurface16
+    400446: polySurface17
+    400448: polySurface18
+    400450: polySurface19
+    400452: polySurface2 1
+    400454: polySurface20
+    400456: polySurface21
+    400458: polySurface22
+    400460: polySurface23
+    400462: polySurface24
+    400464: polySurface25
+    400466: polySurface26
+    400468: polySurface27
+    400470: polySurface28
+    400472: polySurface29
+    400474: polySurface3
+    400476: polySurface30
+    400478: polySurface31
+    400480: polySurface32
+    400482: polySurface33
+    400484: polySurface34
+    400486: polySurface35
+    400488: polySurface36
+    400490: polySurface37
+    400492: polySurface38
+    400494: polySurface39
+    400496: polySurface4
+    400498: polySurface40
+    400500: polySurface41
+    400502: polySurface42
+    400504: polySurface43
+    400506: polySurface44
+    400508: polySurface45
+    400510: polySurface46
+    400512: polySurface47
+    400514: polySurface48
+    400516: polySurface49
+    400518: polySurface5
+    400520: polySurface50
+    400522: polySurface6
+    400524: polySurface7
+    400526: polySurface8
+    400528: polySurface9
+    400530: Rope_Bridge
+    400532: Rope_Bridge01:pCube1
+    400534: Rope_Bridge01:pCube2
+    400536: Rope_Bridge01:pCube3
+    400538: Rope_Bridge01:pCube5
+    400540: Rope_Bridge01:pCube6
+    400542: Rope_Bridge01:pCylinder1
+    400544: Rope_Bridge01:pCylinder2
+    400546: Rope_Bridge01:pCylinder3
+    400548: Rope_Bridge01:pCylinder4
+    400550: Rope_Bridge01:polySurface1
+    400552: Rope_Bridge01:polySurface10
+    400554: Rope_Bridge01:polySurface11
+    400556: Rope_Bridge01:polySurface12
+    400558: Rope_Bridge01:polySurface13
+    400560: Rope_Bridge01:polySurface14
+    400562: Rope_Bridge01:polySurface15
+    400564: Rope_Bridge01:polySurface16
+    400566: Rope_Bridge01:polySurface17
+    400568: Rope_Bridge01:polySurface18
+    400570: Rope_Bridge01:polySurface19
+    400572: Rope_Bridge01:polySurface2
+    400574: Rope_Bridge01:polySurface20
+    400576: Rope_Bridge01:polySurface21
+    400578: Rope_Bridge01:polySurface22
+    400580: Rope_Bridge01:polySurface23
+    400582: Rope_Bridge01:polySurface24
+    400584: Rope_Bridge01:polySurface25
+    400586: Rope_Bridge01:polySurface26
+    400588: Rope_Bridge01:polySurface27
+    400590: Rope_Bridge01:polySurface28
+    400592: Rope_Bridge01:polySurface29
+    400594: Rope_Bridge01:polySurface3
+    400596: Rope_Bridge01:polySurface30
+    400598: Rope_Bridge01:polySurface31
+    400600: Rope_Bridge01:polySurface32
+    400602: Rope_Bridge01:polySurface33
+    400604: Rope_Bridge01:polySurface34
+    400606: Rope_Bridge01:polySurface35
+    400608: Rope_Bridge01:polySurface36
+    400610: Rope_Bridge01:polySurface37
+    400612: Rope_Bridge01:polySurface38
+    400614: Rope_Bridge01:polySurface39
+    400616: Rope_Bridge01:polySurface4
+    400618: Rope_Bridge01:polySurface40
+    400620: Rope_Bridge01:polySurface41
+    400622: Rope_Bridge01:polySurface42
+    400624: Rope_Bridge01:polySurface43
+    400626: Rope_Bridge01:polySurface44
+    400628: Rope_Bridge01:polySurface45
+    400630: Rope_Bridge01:polySurface46
+    400632: Rope_Bridge01:polySurface47
+    400634: Rope_Bridge01:polySurface48
+    400636: Rope_Bridge01:polySurface49
+    400638: Rope_Bridge01:polySurface5
+    400640: Rope_Bridge01:polySurface50
+    400642: Rope_Bridge01:polySurface6
+    400644: Rope_Bridge01:polySurface7
+    400646: Rope_Bridge01:polySurface8
+    400648: Rope_Bridge01:polySurface9
+    400650: Rope_Bridge1
+    400652: transform1
+    400654: Room_1
+    400656: Buttress_Center
+    400658: Cave_Walls
+    400660: Large_Building:Ornament
+    400662: Large_Building:Ornament1
+    400664: Large_Building:Ornament2
+    400666: Large_Building:Ornament3
+    400668: Large_Building:Post
+    400670: Large_Building:Post1
+    400672: Large_Building:Post2
+    400674: Large_Building:Post3
+    400676: Large_Building:River_Bed
+    400678: Large_Building:small_Brg
+    400680: left
+    400682: Main_Structure
+    400684: pCube47
+    400686: pCube48
+    400688: pCylinder18
+    400690: pCylinder19
+    400692: polySurface51
+    400694: polySurface52
+    400696: polySurface53
+    400698: polySurface54
+    400700: polySurface55
+    2000000: back
+    2000002: left
+    2300000: Buttruss01:pCylinder1
+    2300002: Gate:pCube1
+    2300004: Gate:pCube10
+    2300006: Gate:pCube11
+    2300008: Gate:pCube9
+    2300010: Great_Lava_Bridge:pCube1
+    2300012: L_Wall
+    2300014: Large_Building:Cave
+    2300016: Large_Building:Large_Building:polySurface8
+    2300018: Large_Building:Lava1
+    2300020: Large_Building:pCube1
+    2300022: Large_Building:pCube1 1
+    2300024: Large_Building:pCube10
+    2300026: Large_Building:pCube10 1
+    2300028: Large_Building:pCube11
+    2300030: Large_Building:pCube11 1
+    2300032: Large_Building:pCube12
+    2300034: Large_Building:pCube13
+    2300036: Large_Building:pCube14
+    2300038: Large_Building:pCube15
+    2300040: Large_Building:pCube16
+    2300042: Large_Building:pCube17
+    2300044: Large_Building:pCube2
+    2300046: Large_Building:pCube21
+    2300048: Large_Building:pCube21 1
+    2300050: Large_Building:pCube22
+    2300052: Large_Building:pCube22 1
+    2300054: Large_Building:pCube23
+    2300056: Large_Building:pCube23 1
+    2300058: Large_Building:pCube24
+    2300060: Large_Building:pCube24 1
+    2300062: Large_Building:pCube25
+    2300064: Large_Building:pCube25 1
+    2300066: Large_Building:pCube26
+    2300068: Large_Building:pCube26 1
+    2300070: Large_Building:pCube27
+    2300072: Large_Building:pCube27 1
+    2300074: Large_Building:pCube28
+    2300076: Large_Building:pCube28 1
+    2300078: Large_Building:pCube29
+    2300080: Large_Building:pCube29 1
+    2300082: Large_Building:pCube30
+    2300084: Large_Building:pCube30 1
+    2300086: Large_Building:pCube31
+    2300088: Large_Building:pCube31 1
+    2300090: Large_Building:pCube32
+    2300092: Large_Building:pCube32 1
+    2300094: Large_Building:pCube35
+    2300096: Large_Building:pCube35 1
+    2300098: Large_Building:pCube36
+    2300100: Large_Building:pCube36 1
+    2300102: Large_Building:pCube37
+    2300104: Large_Building:pCube37 1
+    2300106: Large_Building:pCube38
+    2300108: Large_Building:pCube38 1
+    2300110: Large_Building:pCube39
+    2300112: Large_Building:pCube39 1
+    2300114: Large_Building:pCube40
+    2300116: Large_Building:pCube40 1
+    2300118: Large_Building:pCube41
+    2300120: Large_Building:pCube41 1
+    2300122: Large_Building:pCube42
+    2300124: Large_Building:pCube42 1
+    2300126: Large_Building:pCube43
+    2300128: Large_Building:pCube43 1
+    2300130: Large_Building:pCube44
+    2300132: Large_Building:pCube44 1
+    2300134: Large_Building:pCube45
+    2300136: Large_Building:pCube45 1
+    2300138: Large_Building:pCube46
+    2300140: Large_Building:pCube46 1
+    2300142: Large_Building:pCube47
+    2300144: Large_Building:pCube48
+    2300146: Large_Building:pCube49
+    2300148: Large_Building:pCube50
+    2300150: Large_Building:pCube51
+    2300152: Large_Building:pCube52
+    2300154: Large_Building:pCube54
+    2300156: Large_Building:pCube55
+    2300158: Large_Building:pCube56
+    2300160: Large_Building:pCube57
+    2300162: Large_Building:pCube57 1
+    2300164: Large_Building:pCube58
+    2300166: Large_Building:pCube58 1
+    2300168: Large_Building:pCube6
+    2300170: Large_Building:pCube7
+    2300172: Large_Building:pCube8
+    2300174: Large_Building:pCube9
+    2300176: Large_Building:pCube9 1
+    2300178: Large_Building:pCylinder13
+    2300180: Large_Building:pCylinder15
+    2300182: Large_Building:pCylinder16
+    2300184: Large_Building:pCylinder17
+    2300186: Large_Building:pCylinder18
+    2300188: Large_Building:pCylinder19
+    2300190: Large_Building:pCylinder20
+    2300192: Large_Building:pCylinder21
+    2300194: Large_Building:pCylinder22
+    2300196: Large_Building:pCylinder23
+    2300198: Large_Building:pCylinder24
+    2300200: Large_Building:polySurface1
+    2300202: Large_Building:polySurface1 1
+    2300204: Large_Building:polySurface2
+    2300206: Large_Building:polySurface2 1
+    2300208: Large_Building:polySurface8
+    2300210: Large_Building:Room_1
+    2300212: Large_Building:Room_2
+    2300214: LavaStatue:pCube1
+    2300216: LavaStatue:pCube2
+    2300218: LavaStatue:pCube3
+    2300220: pCube1
+    2300222: pCube2
+    2300224: pCube21
+    2300226: pCube22
+    2300228: pCube23
+    2300230: pCube24
+    2300232: pCube25
+    2300234: pCube26
+    2300236: pCube27
+    2300238: pCube28
+    2300240: pCube29
+    2300242: pCube3
+    2300244: pCube30
+    2300246: pCube31
+    2300248: pCube32
+    2300250: pCube35
+    2300252: pCube36
+    2300254: pCube37
+    2300256: pCube38
+    2300258: pCube39
+    2300260: pCube4
+    2300262: pCube40
+    2300264: pCube41
+    2300266: pCube42
+    2300268: pCube43
+    2300270: pCube44
+    2300272: pCube45
+    2300274: pCube46
+    2300276: pCube53
+    2300278: pCube54
+    2300280: pCube55
+    2300282: pCube56
+    2300284: pCube57
+    2300286: pCube58
+    2300288: pCube59
+    2300290: pCylinder1 1
+    2300292: pCylinder1 2
+    2300294: pCylinder10
+    2300296: pCylinder11
+    2300298: pCylinder12
+    2300300: pCylinder13
+    2300302: pCylinder14
+    2300304: pCylinder15
+    2300306: pCylinder17
+    2300308: pCylinder2
+    2300310: pCylinder3
+    2300312: pCylinder4
+    2300314: pCylinder5
+    2300316: pCylinder6
+    2300318: pCylinder7
+    2300320: pCylinder8
+    2300322: pCylinder9
+    2300324: polySurface1
+    2300326: polySurface1 1
+    2300328: polySurface2
+    2300330: R_Wall
+    2300332: RockBridge01:pCube3
+    2300334: small_bridge:pCube1
+    2300336: pCube2 1
+    2300338: pCube3 1
+    2300340: pCube5
+    2300342: pCube6
+    2300344: pCylinder1 3
+    2300346: pCylinder2 1
+    2300348: pCylinder3 1
+    2300350: pCylinder4 1
+    2300352: polySurface1 2
+    2300354: polySurface10
+    2300356: polySurface11
+    2300358: polySurface12
+    2300360: polySurface13
+    2300362: polySurface14
+    2300364: polySurface15
+    2300366: polySurface16
+    2300368: polySurface17
+    2300370: polySurface18
+    2300372: polySurface19
+    2300374: polySurface2 1
+    2300376: polySurface20
+    2300378: polySurface21
+    2300380: polySurface22
+    2300382: polySurface23
+    2300384: polySurface24
+    2300386: polySurface25
+    2300388: polySurface26
+    2300390: polySurface27
+    2300392: polySurface28
+    2300394: polySurface29
+    2300396: polySurface3
+    2300398: polySurface30
+    2300400: polySurface31
+    2300402: polySurface32
+    2300404: polySurface33
+    2300406: polySurface34
+    2300408: polySurface35
+    2300410: polySurface36
+    2300412: polySurface37
+    2300414: polySurface38
+    2300416: polySurface39
+    2300418: polySurface4
+    2300420: polySurface40
+    2300422: polySurface41
+    2300424: polySurface42
+    2300426: polySurface43
+    2300428: polySurface44
+    2300430: polySurface45
+    2300432: polySurface46
+    2300434: polySurface47
+    2300436: polySurface48
+    2300438: polySurface49
+    2300440: polySurface5
+    2300442: polySurface50
+    2300444: polySurface6
+    2300446: polySurface7
+    2300448: polySurface8
+    2300450: polySurface9
+    2300452: Rope_Bridge01:pCube2
+    2300454: Rope_Bridge01:pCube3
+    2300456: Rope_Bridge01:pCube5
+    2300458: Rope_Bridge01:pCube6
+    2300460: Rope_Bridge01:pCylinder1
+    2300462: Rope_Bridge01:pCylinder2
+    2300464: Rope_Bridge01:pCylinder3
+    2300466: Rope_Bridge01:pCylinder4
+    2300468: Rope_Bridge01:polySurface1
+    2300470: Rope_Bridge01:polySurface10
+    2300472: Rope_Bridge01:polySurface11
+    2300474: Rope_Bridge01:polySurface12
+    2300476: Rope_Bridge01:polySurface13
+    2300478: Rope_Bridge01:polySurface14
+    2300480: Rope_Bridge01:polySurface15
+    2300482: Rope_Bridge01:polySurface16
+    2300484: Rope_Bridge01:polySurface17
+    2300486: Rope_Bridge01:polySurface18
+    2300488: Rope_Bridge01:polySurface19
+    2300490: Rope_Bridge01:polySurface2
+    2300492: Rope_Bridge01:polySurface20
+    2300494: Rope_Bridge01:polySurface21
+    2300496: Rope_Bridge01:polySurface22
+    2300498: Rope_Bridge01:polySurface23
+    2300500: Rope_Bridge01:polySurface24
+    2300502: Rope_Bridge01:polySurface25
+    2300504: Rope_Bridge01:polySurface26
+    2300506: Rope_Bridge01:polySurface27
+    2300508: Rope_Bridge01:polySurface28
+    2300510: Rope_Bridge01:polySurface29
+    2300512: Rope_Bridge01:polySurface3
+    2300514: Rope_Bridge01:polySurface30
+    2300516: Rope_Bridge01:polySurface31
+    2300518: Rope_Bridge01:polySurface32
+    2300520: Rope_Bridge01:polySurface33
+    2300522: Rope_Bridge01:polySurface34
+    2300524: Rope_Bridge01:polySurface35
+    2300526: Rope_Bridge01:polySurface36
+    2300528: Rope_Bridge01:polySurface37
+    2300530: Rope_Bridge01:polySurface38
+    2300532: Rope_Bridge01:polySurface39
+    2300534: Rope_Bridge01:polySurface4
+    2300536: Rope_Bridge01:polySurface40
+    2300538: Rope_Bridge01:polySurface41
+    2300540: Rope_Bridge01:polySurface42
+    2300542: Rope_Bridge01:polySurface43
+    2300544: Rope_Bridge01:polySurface44
+    2300546: Rope_Bridge01:polySurface45
+    2300548: Rope_Bridge01:polySurface46
+    2300550: Rope_Bridge01:polySurface47
+    2300552: Rope_Bridge01:polySurface48
+    2300554: Rope_Bridge01:polySurface49
+    2300556: Rope_Bridge01:polySurface5
+    2300558: Rope_Bridge01:polySurface50
+    2300560: Rope_Bridge01:polySurface6
+    2300562: Rope_Bridge01:polySurface7
+    2300564: Rope_Bridge01:polySurface8
+    2300566: Rope_Bridge01:polySurface9
+    2300568: Room_1
+    2300570: Buttress_Center
+    2300572: Cave_Walls
+    2300574: Large_Building:Ornament
+    2300576: Large_Building:Ornament1
+    2300578: Large_Building:Ornament2
+    2300580: Large_Building:Ornament3
+    2300582: Large_Building:Post
+    2300584: Large_Building:Post1
+    2300586: Large_Building:Post2
+    2300588: Large_Building:Post3
+    2300590: Large_Building:River_Bed
+    2300592: Large_Building:small_Brg
+    2300594: pCube47
+    2300596: pCube48
+    2300598: pCylinder18
+    2300600: pCylinder19
+    2300602: polySurface51
+    2300604: polySurface52
+    2300606: polySurface53
+    2300608: polySurface54
+    2300610: polySurface55
+    3300000: Buttruss01:pCylinder1
+    3300002: Gate:pCube1
+    3300004: Gate:pCube10
+    3300006: Gate:pCube11
+    3300008: Gate:pCube9
+    3300010: Great_Lava_Bridge:pCube1
+    3300012: L_Wall
+    3300014: Large_Building:Cave
+    3300016: Large_Building:Large_Building:polySurface8
+    3300018: Large_Building:Lava1
+    3300020: Large_Building:pCube1
+    3300022: Large_Building:pCube1 1
+    3300024: Large_Building:pCube10
+    3300026: Large_Building:pCube10 1
+    3300028: Large_Building:pCube11
+    3300030: Large_Building:pCube11 1
+    3300032: Large_Building:pCube12
+    3300034: Large_Building:pCube13
+    3300036: Large_Building:pCube14
+    3300038: Large_Building:pCube15
+    3300040: Large_Building:pCube16
+    3300042: Large_Building:pCube17
+    3300044: Large_Building:pCube2
+    3300046: Large_Building:pCube21
+    3300048: Large_Building:pCube21 1
+    3300050: Large_Building:pCube22
+    3300052: Large_Building:pCube22 1
+    3300054: Large_Building:pCube23
+    3300056: Large_Building:pCube23 1
+    3300058: Large_Building:pCube24
+    3300060: Large_Building:pCube24 1
+    3300062: Large_Building:pCube25
+    3300064: Large_Building:pCube25 1
+    3300066: Large_Building:pCube26
+    3300068: Large_Building:pCube26 1
+    3300070: Large_Building:pCube27
+    3300072: Large_Building:pCube27 1
+    3300074: Large_Building:pCube28
+    3300076: Large_Building:pCube28 1
+    3300078: Large_Building:pCube29
+    3300080: Large_Building:pCube29 1
+    3300082: Large_Building:pCube30
+    3300084: Large_Building:pCube30 1
+    3300086: Large_Building:pCube31
+    3300088: Large_Building:pCube31 1
+    3300090: Large_Building:pCube32
+    3300092: Large_Building:pCube32 1
+    3300094: Large_Building:pCube35
+    3300096: Large_Building:pCube35 1
+    3300098: Large_Building:pCube36
+    3300100: Large_Building:pCube36 1
+    3300102: Large_Building:pCube37
+    3300104: Large_Building:pCube37 1
+    3300106: Large_Building:pCube38
+    3300108: Large_Building:pCube38 1
+    3300110: Large_Building:pCube39
+    3300112: Large_Building:pCube39 1
+    3300114: Large_Building:pCube40
+    3300116: Large_Building:pCube40 1
+    3300118: Large_Building:pCube41
+    3300120: Large_Building:pCube41 1
+    3300122: Large_Building:pCube42
+    3300124: Large_Building:pCube42 1
+    3300126: Large_Building:pCube43
+    3300128: Large_Building:pCube43 1
+    3300130: Large_Building:pCube44
+    3300132: Large_Building:pCube44 1
+    3300134: Large_Building:pCube45
+    3300136: Large_Building:pCube45 1
+    3300138: Large_Building:pCube46
+    3300140: Large_Building:pCube46 1
+    3300142: Large_Building:pCube47
+    3300144: Large_Building:pCube48
+    3300146: Large_Building:pCube49
+    3300148: Large_Building:pCube50
+    3300150: Large_Building:pCube51
+    3300152: Large_Building:pCube52
+    3300154: Large_Building:pCube54
+    3300156: Large_Building:pCube55
+    3300158: Large_Building:pCube56
+    3300160: Large_Building:pCube57
+    3300162: Large_Building:pCube57 1
+    3300164: Large_Building:pCube58
+    3300166: Large_Building:pCube58 1
+    3300168: Large_Building:pCube6
+    3300170: Large_Building:pCube7
+    3300172: Large_Building:pCube8
+    3300174: Large_Building:pCube9
+    3300176: Large_Building:pCube9 1
+    3300178: Large_Building:pCylinder13
+    3300180: Large_Building:pCylinder15
+    3300182: Large_Building:pCylinder16
+    3300184: Large_Building:pCylinder17
+    3300186: Large_Building:pCylinder18
+    3300188: Large_Building:pCylinder19
+    3300190: Large_Building:pCylinder20
+    3300192: Large_Building:pCylinder21
+    3300194: Large_Building:pCylinder22
+    3300196: Large_Building:pCylinder23
+    3300198: Large_Building:pCylinder24
+    3300200: Large_Building:polySurface1
+    3300202: Large_Building:polySurface1 1
+    3300204: Large_Building:polySurface2
+    3300206: Large_Building:polySurface2 1
+    3300208: Large_Building:polySurface8
+    3300210: Large_Building:Room_1
+    3300212: Large_Building:Room_2
+    3300214: LavaStatue:pCube1
+    3300216: LavaStatue:pCube2
+    3300218: LavaStatue:pCube3
+    3300220: pCube1
+    3300222: pCube2
+    3300224: pCube21
+    3300226: pCube22
+    3300228: pCube23
+    3300230: pCube24
+    3300232: pCube25
+    3300234: pCube26
+    3300236: pCube27
+    3300238: pCube28
+    3300240: pCube29
+    3300242: pCube3
+    3300244: pCube30
+    3300246: pCube31
+    3300248: pCube32
+    3300250: pCube35
+    3300252: pCube36
+    3300254: pCube37
+    3300256: pCube38
+    3300258: pCube39
+    3300260: pCube4
+    3300262: pCube40
+    3300264: pCube41
+    3300266: pCube42
+    3300268: pCube43
+    3300270: pCube44
+    3300272: pCube45
+    3300274: pCube46
+    3300276: pCube53
+    3300278: pCube54
+    3300280: pCube55
+    3300282: pCube56
+    3300284: pCube57
+    3300286: pCube58
+    3300288: pCube59
+    3300290: pCylinder1 1
+    3300292: pCylinder1 2
+    3300294: pCylinder10
+    3300296: pCylinder11
+    3300298: pCylinder12
+    3300300: pCylinder13
+    3300302: pCylinder14
+    3300304: pCylinder15
+    3300306: pCylinder17
+    3300308: pCylinder2
+    3300310: pCylinder3
+    3300312: pCylinder4
+    3300314: pCylinder5
+    3300316: pCylinder6
+    3300318: pCylinder7
+    3300320: pCylinder8
+    3300322: pCylinder9
+    3300324: polySurface1
+    3300326: polySurface1 1
+    3300328: polySurface2
+    3300330: R_Wall
+    3300332: RockBridge01:pCube3
+    3300334: small_bridge:pCube1
+    3300336: pCube2 1
+    3300338: pCube3 1
+    3300340: pCube5
+    3300342: pCube6
+    3300344: pCylinder1 3
+    3300346: pCylinder2 1
+    3300348: pCylinder3 1
+    3300350: pCylinder4 1
+    3300352: polySurface1 2
+    3300354: polySurface10
+    3300356: polySurface11
+    3300358: polySurface12
+    3300360: polySurface13
+    3300362: polySurface14
+    3300364: polySurface15
+    3300366: polySurface16
+    3300368: polySurface17
+    3300370: polySurface18
+    3300372: polySurface19
+    3300374: polySurface2 1
+    3300376: polySurface20
+    3300378: polySurface21
+    3300380: polySurface22
+    3300382: polySurface23
+    3300384: polySurface24
+    3300386: polySurface25
+    3300388: polySurface26
+    3300390: polySurface27
+    3300392: polySurface28
+    3300394: polySurface29
+    3300396: polySurface3
+    3300398: polySurface30
+    3300400: polySurface31
+    3300402: polySurface32
+    3300404: polySurface33
+    3300406: polySurface34
+    3300408: polySurface35
+    3300410: polySurface36
+    3300412: polySurface37
+    3300414: polySurface38
+    3300416: polySurface39
+    3300418: polySurface4
+    3300420: polySurface40
+    3300422: polySurface41
+    3300424: polySurface42
+    3300426: polySurface43
+    3300428: polySurface44
+    3300430: polySurface45
+    3300432: polySurface46
+    3300434: polySurface47
+    3300436: polySurface48
+    3300438: polySurface49
+    3300440: polySurface5
+    3300442: polySurface50
+    3300444: polySurface6
+    3300446: polySurface7
+    3300448: polySurface8
+    3300450: polySurface9
+    3300452: Rope_Bridge01:pCube2
+    3300454: Rope_Bridge01:pCube3
+    3300456: Rope_Bridge01:pCube5
+    3300458: Rope_Bridge01:pCube6
+    3300460: Rope_Bridge01:pCylinder1
+    3300462: Rope_Bridge01:pCylinder2
+    3300464: Rope_Bridge01:pCylinder3
+    3300466: Rope_Bridge01:pCylinder4
+    3300468: Rope_Bridge01:polySurface1
+    3300470: Rope_Bridge01:polySurface10
+    3300472: Rope_Bridge01:polySurface11
+    3300474: Rope_Bridge01:polySurface12
+    3300476: Rope_Bridge01:polySurface13
+    3300478: Rope_Bridge01:polySurface14
+    3300480: Rope_Bridge01:polySurface15
+    3300482: Rope_Bridge01:polySurface16
+    3300484: Rope_Bridge01:polySurface17
+    3300486: Rope_Bridge01:polySurface18
+    3300488: Rope_Bridge01:polySurface19
+    3300490: Rope_Bridge01:polySurface2
+    3300492: Rope_Bridge01:polySurface20
+    3300494: Rope_Bridge01:polySurface21
+    3300496: Rope_Bridge01:polySurface22
+    3300498: Rope_Bridge01:polySurface23
+    3300500: Rope_Bridge01:polySurface24
+    3300502: Rope_Bridge01:polySurface25
+    3300504: Rope_Bridge01:polySurface26
+    3300506: Rope_Bridge01:polySurface27
+    3300508: Rope_Bridge01:polySurface28
+    3300510: Rope_Bridge01:polySurface29
+    3300512: Rope_Bridge01:polySurface3
+    3300514: Rope_Bridge01:polySurface30
+    3300516: Rope_Bridge01:polySurface31
+    3300518: Rope_Bridge01:polySurface32
+    3300520: Rope_Bridge01:polySurface33
+    3300522: Rope_Bridge01:polySurface34
+    3300524: Rope_Bridge01:polySurface35
+    3300526: Rope_Bridge01:polySurface36
+    3300528: Rope_Bridge01:polySurface37
+    3300530: Rope_Bridge01:polySurface38
+    3300532: Rope_Bridge01:polySurface39
+    3300534: Rope_Bridge01:polySurface4
+    3300536: Rope_Bridge01:polySurface40
+    3300538: Rope_Bridge01:polySurface41
+    3300540: Rope_Bridge01:polySurface42
+    3300542: Rope_Bridge01:polySurface43
+    3300544: Rope_Bridge01:polySurface44
+    3300546: Rope_Bridge01:polySurface45
+    3300548: Rope_Bridge01:polySurface46
+    3300550: Rope_Bridge01:polySurface47
+    3300552: Rope_Bridge01:polySurface48
+    3300554: Rope_Bridge01:polySurface49
+    3300556: Rope_Bridge01:polySurface5
+    3300558: Rope_Bridge01:polySurface50
+    3300560: Rope_Bridge01:polySurface6
+    3300562: Rope_Bridge01:polySurface7
+    3300564: Rope_Bridge01:polySurface8
+    3300566: Rope_Bridge01:polySurface9
+    3300568: Room_1
+    3300570: Buttress_Center
+    3300572: Cave_Walls
+    3300574: Large_Building:Ornament
+    3300576: Large_Building:Ornament1
+    3300578: Large_Building:Ornament2
+    3300580: Large_Building:Ornament3
+    3300582: Large_Building:Post
+    3300584: Large_Building:Post1
+    3300586: Large_Building:Post2
+    3300588: Large_Building:Post3
+    3300590: Large_Building:River_Bed
+    3300592: Large_Building:small_Brg
+    3300594: pCube47
+    3300596: pCube48
+    3300598: pCylinder18
+    3300600: pCylinder19
+    3300602: polySurface51
+    3300604: polySurface52
+    3300606: polySurface53
+    3300608: polySurface54
+    3300610: polySurface55
+    4300000: Large_Building:Cave
+    4300002: Large_Building:polySurface1
+    4300004: Large_Building:polySurface2
+    4300006: Large_Building:pCube21
+    4300008: Large_Building:pCube22
+    4300010: Large_Building:pCube23
+    4300012: Large_Building:pCube24
+    4300014: Large_Building:pCube25
+    4300016: Large_Building:pCube26
+    4300018: Large_Building:pCube27
+    4300020: Large_Building:pCube28
+    4300022: Large_Building:pCube29
+    4300024: Large_Building:pCube30
+    4300026: Large_Building:pCube31
+    4300028: Large_Building:pCube32
+    4300030: Large_Building:pCube35
+    4300032: Large_Building:pCube36
+    4300034: Large_Building:pCube37
+    4300036: Large_Building:pCube38
+    4300038: Large_Building:pCube39
+    4300040: Large_Building:pCube40
+    4300042: Large_Building:pCube41
+    4300044: Large_Building:pCube42
+    4300046: Large_Building:pCube43
+    4300048: Large_Building:pCube44
+    4300050: Large_Building:pCube45
+    4300052: Large_Building:pCube46
+    4300054: Large_Building:pCylinder22
+    4300056: Large_Building:pCylinder23
+    4300058: Large_Building:pCylinder24
+    4300060: Large_Building:Lava1
+    4300062: Large_Building:pCube57
+    4300064: Large_Building:pCube58
+    4300066: Large_Building:pCube1
+    4300068: Large_Building:pCube57
+    4300070: Large_Building:pCube58
+    4300072: small_bridge:pCube1
+    4300074: Large_Building:pCylinder16
+    4300076: Large_Building:pCylinder17
+    4300078: Large_Building:pCylinder18
+    4300080: Large_Building:pCylinder19
+    4300082: Large_Building:pCylinder20
+    4300084: Large_Building:pCylinder21
+    4300086: LavaStatue:pCube1
+    4300088: LavaStatue:pCube2
+    4300090: LavaStatue:pCube3
+    4300092: Large_Building:pCube1
+    4300094: Large_Building:pCube10
+    4300096: Large_Building:pCube9
+    4300098: Large_Building:pCube11
+    4300100: Large_Building:pCylinder15
+    4300102: Large_Building:pCylinder13
+    4300104: Large_Building:pCube56
+    4300106: Large_Building:pCube55
+    4300108: Large_Building:pCube54
+    4300110: polySurface1
+    4300112: polySurface2
+    4300114: pCube21
+    4300116: pCube22
+    4300118: pCube23
+    4300120: pCube24
+    4300122: pCube25
+    4300124: pCube26
+    4300126: pCube27
+    4300128: pCube28
+    4300130: pCube29
+    4300132: pCube30
+    4300134: pCube31
+    4300136: pCube32
+    4300138: pCube35
+    4300140: pCube36
+    4300142: pCube37
+    4300144: pCube38
+    4300146: pCube39
+    4300148: pCube40
+    4300150: pCube41
+    4300152: pCube42
+    4300154: pCube43
+    4300156: pCube44
+    4300158: pCube45
+    4300160: pCube46
+    4300162: Large_Building:polySurface1
+    4300164: Large_Building:polySurface2
+    4300166: polySurface1
+    4300168: Large_Building:pCube2
+    4300170: Large_Building:pCube6
+    4300172: Large_Building:pCube7
+    4300174: Large_Building:pCube8
+    4300176: Large_Building:pCube9
+    4300178: Large_Building:pCube10
+    4300180: Large_Building:pCube11
+    4300182: Large_Building:pCube12
+    4300184: Large_Building:pCube13
+    4300186: Large_Building:pCube14
+    4300188: Large_Building:pCube15
+    4300190: Large_Building:pCube16
+    4300192: Large_Building:pCube17
+    4300194: Large_Building:pCube21
+    4300196: Large_Building:pCube22
+    4300198: Large_Building:pCube23
+    4300200: Large_Building:pCube24
+    4300202: Large_Building:pCube25
+    4300204: Large_Building:pCube26
+    4300206: Large_Building:pCube27
+    4300208: Large_Building:pCube28
+    4300210: Large_Building:pCube29
+    4300212: Large_Building:pCube30
+    4300214: Large_Building:pCube31
+    4300216: Large_Building:pCube32
+    4300218: Large_Building:pCube35
+    4300220: Large_Building:pCube36
+    4300222: Large_Building:pCube37
+    4300224: Large_Building:pCube38
+    4300226: Large_Building:pCube39
+    4300228: Large_Building:pCube40
+    4300230: Large_Building:pCube41
+    4300232: Large_Building:pCube42
+    4300234: Large_Building:pCube43
+    4300236: Large_Building:pCube44
+    4300238: Large_Building:pCube45
+    4300240: Large_Building:pCube46
+    4300242: Large_Building:pCube47
+    4300244: Large_Building:pCube48
+    4300246: Large_Building:pCube49
+    4300248: Large_Building:pCube50
+    4300250: Large_Building:pCube51
+    4300252: Large_Building:pCube52
+    4300254: pCube59
+    4300256: pCube58
+    4300258: pCube57
+    4300260: pCube56
+    4300262: pCube55
+    4300264: pCube54
+    4300266: pCube53
+    4300268: Large_Building:Large_Building:polySurface8
+    4300270: Large_Building:polySurface8
+    4300272: Large_Building:Room_1
+    4300274: Large_Building:Room_2
+    4300276: L_Wall
+    4300278: R_Wall
+    4300280: Buttruss01:pCylinder1
+    4300282: pCylinder17
+    4300284: pCylinder1
+    4300286: Great_Lava_Bridge:pCube1
+    4300288: Gate:pCube1
+    4300290: Gate:pCube10
+    4300292: Gate:pCube9
+    4300294: Gate:pCube11
+    4300296: pCylinder15
+    4300298: pCylinder13
+    4300300: pCube4
+    4300302: pCylinder14
+    4300304: pCylinder1
+    4300306: pCylinder2
+    4300308: pCylinder3
+    4300310: pCylinder4
+    4300312: pCylinder5
+    4300314: pCube2
+    4300316: pCube3
+    4300318: pCylinder6
+    4300320: RockBridge01:pCube3
+    4300322: pCylinder7
+    4300324: pCylinder8
+    4300326: pCylinder9
+    4300328: pCylinder10
+    4300330: pCylinder11
+    4300332: pCylinder12
+    4300334: pCube1
+    4300336: Rope_Bridge01:polySurface1
+    4300338: Rope_Bridge01:polySurface2
+    4300340: Rope_Bridge01:polySurface3
+    4300342: Rope_Bridge01:polySurface4
+    4300344: Rope_Bridge01:polySurface5
+    4300346: Rope_Bridge01:polySurface6
+    4300348: Rope_Bridge01:polySurface7
+    4300350: Rope_Bridge01:polySurface8
+    4300352: Rope_Bridge01:polySurface9
+    4300354: Rope_Bridge01:polySurface10
+    4300356: Rope_Bridge01:polySurface11
+    4300358: Rope_Bridge01:polySurface12
+    4300360: Rope_Bridge01:polySurface13
+    4300362: Rope_Bridge01:polySurface14
+    4300364: Rope_Bridge01:polySurface15
+    4300366: Rope_Bridge01:polySurface16
+    4300368: Rope_Bridge01:polySurface17
+    4300370: Rope_Bridge01:polySurface18
+    4300372: Rope_Bridge01:polySurface19
+    4300374: Rope_Bridge01:polySurface20
+    4300376: Rope_Bridge01:polySurface21
+    4300378: Rope_Bridge01:polySurface22
+    4300380: Rope_Bridge01:polySurface23
+    4300382: Rope_Bridge01:polySurface24
+    4300384: Rope_Bridge01:polySurface25
+    4300386: Rope_Bridge01:polySurface26
+    4300388: Rope_Bridge01:polySurface27
+    4300390: Rope_Bridge01:polySurface28
+    4300392: Rope_Bridge01:polySurface29
+    4300394: Rope_Bridge01:polySurface30
+    4300396: Rope_Bridge01:polySurface31
+    4300398: Rope_Bridge01:polySurface32
+    4300400: Rope_Bridge01:polySurface33
+    4300402: Rope_Bridge01:polySurface34
+    4300404: Rope_Bridge01:polySurface35
+    4300406: Rope_Bridge01:polySurface36
+    4300408: Rope_Bridge01:polySurface37
+    4300410: Rope_Bridge01:polySurface38
+    4300412: Rope_Bridge01:polySurface39
+    4300414: Rope_Bridge01:polySurface40
+    4300416: Rope_Bridge01:polySurface41
+    4300418: Rope_Bridge01:polySurface42
+    4300420: Rope_Bridge01:polySurface43
+    4300422: Rope_Bridge01:polySurface44
+    4300424: Rope_Bridge01:polySurface45
+    4300426: Rope_Bridge01:polySurface46
+    4300428: Rope_Bridge01:polySurface47
+    4300430: Rope_Bridge01:polySurface48
+    4300432: Rope_Bridge01:polySurface49
+    4300434: Rope_Bridge01:polySurface50
+    4300436: Rope_Bridge01:pCube2
+    4300438: Rope_Bridge01:pCube3
+    4300440: Rope_Bridge01:pCylinder1
+    4300442: Rope_Bridge01:pCylinder2
+    4300444: Rope_Bridge01:pCylinder3
+    4300446: Rope_Bridge01:pCylinder4
+    4300448: Rope_Bridge01:pCube5
+    4300450: Rope_Bridge01:pCube6
+    4300452: polySurface1
+    4300454: polySurface2
+    4300456: polySurface3
+    4300458: polySurface4
+    4300460: polySurface5
+    4300462: polySurface6
+    4300464: polySurface7
+    4300466: polySurface8
+    4300468: polySurface9
+    4300470: polySurface10
+    4300472: polySurface11
+    4300474: polySurface12
+    4300476: polySurface13
+    4300478: polySurface14
+    4300480: polySurface15
+    4300482: polySurface16
+    4300484: polySurface17
+    4300486: polySurface18
+    4300488: polySurface19
+    4300490: polySurface20
+    4300492: polySurface21
+    4300494: polySurface22
+    4300496: polySurface23
+    4300498: polySurface24
+    4300500: polySurface25
+    4300502: polySurface26
+    4300504: polySurface27
+    4300506: polySurface28
+    4300508: polySurface29
+    4300510: polySurface30
+    4300512: polySurface31
+    4300514: polySurface32
+    4300516: polySurface33
+    4300518: polySurface34
+    4300520: polySurface35
+    4300522: polySurface36
+    4300524: polySurface37
+    4300526: polySurface38
+    4300528: polySurface39
+    4300530: polySurface40
+    4300532: polySurface41
+    4300534: polySurface42
+    4300536: polySurface43
+    4300538: polySurface44
+    4300540: polySurface45
+    4300542: polySurface46
+    4300544: polySurface47
+    4300546: polySurface48
+    4300548: polySurface49
+    4300550: polySurface50
+    4300552: pCube2
+    4300554: pCube3
+    4300556: pCylinder1
+    4300558: pCylinder2
+    4300560: pCylinder3
+    4300562: pCylinder4
+    4300564: pCube5
+    4300566: pCube6
+    4300568: Room_1
+    4300570: Cave_Walls
+    4300572: polySurface51
+    4300574: polySurface52
+    4300576: polySurface53
+    4300578: polySurface54
+    4300580: polySurface55
+    4300582: Buttress_Center
+    4300584: pCylinder18
+    4300586: pCylinder19
+    4300588: Large_Building:River_Bed
+    4300590: Large_Building:small_Brg
+    4300592: pCube47
+    4300594: pCube48
+    4300596: Large_Building:Post
+    4300598: Large_Building:Post1
+    4300600: Large_Building:Post2
+    4300602: Large_Building:Post3
+    4300604: Large_Building:Ornament
+    4300606: Large_Building:Ornament1
+    4300608: Large_Building:Ornament2
+    4300610: Large_Building:Ornament3
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,200 @@
+fileFormatVersion: 2
+guid: e16faa66ba4744ce9991bd78c0700235
+timeCreated: 1516982682
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Big_Bridge
+    100002: Gate:Gate
+    100004: Gate:L_Gate_Ctrl
+    100006: Gate:L_Gate_Ctrl1
+    100008: Gate:L_Gate_Ctrl_Grp
+    100010: Gate:L_Gate_Ctrl_Grp1
+    100012: Gate:pCube10
+    100014: Gate:pCube9
+    100016: //RootNode
+    100018: Large_Building:Gate
+    100020: Large_Building:group2
+    100022: Large_Building:L_Gate_Ctrl
+    100024: Large_Building:L_Gate_Ctrl 1
+    100026: Large_Building:L_Gate_Ctrl1
+    100028: Large_Building:L_Gate_Ctrl_Grp
+    100030: Large_Building:L_Gate_Ctrl_Grp1
+    100032: Large_Building:Lava
+    100034: Large_Building:Lava1
+    100036: Large_Building:Left_Building
+    100038: Large_Building:Left_River
+    100040: Large_Building:Main_Building_Stairs
+    100042: Large_Building:pCube10
+    100044: Large_Building:pCube58
+    100046: Large_Building:pCube58 1
+    100048: Large_Building:pCube9
+    100050: Large_Building:pCylinder1
+    100052: Large_Building:pCylinder22
+    100054: Large_Building:pCylinder23
+    100056: Large_Building:pCylinder24
+    100058: Large_Building:polySurface1
+    100060: Large_Building:polySurface2
+    100062: Large_Building:Right_Building
+    100064: Large_Building:Right_River
+    100066: Large_Building:Statue
+    100068: Large_Building:Temple_Level
+    100070: LavaStatue:pCube2
+    100072: LavaStatue:pCube3
+    100074: Main_Building
+    100076: pCube1
+    100078: pCube56
+    100080: pCylinder1
+    100082: polySurface1
+    100084: polySurface2
+    100086: Rope_Bridge1
+    100088: transform1
+    400000: Big_Bridge
+    400002: Gate:Gate
+    400004: Gate:L_Gate_Ctrl
+    400006: Gate:L_Gate_Ctrl1
+    400008: Gate:L_Gate_Ctrl_Grp
+    400010: Gate:L_Gate_Ctrl_Grp1
+    400012: Gate:pCube10
+    400014: Gate:pCube9
+    400016: //RootNode
+    400018: Large_Building:Gate
+    400020: Large_Building:group2
+    400022: Large_Building:L_Gate_Ctrl
+    400024: Large_Building:L_Gate_Ctrl 1
+    400026: Large_Building:L_Gate_Ctrl1
+    400028: Large_Building:L_Gate_Ctrl_Grp
+    400030: Large_Building:L_Gate_Ctrl_Grp1
+    400032: Large_Building:Lava
+    400034: Large_Building:Lava1
+    400036: Large_Building:Left_Building
+    400038: Large_Building:Left_River
+    400040: Large_Building:Main_Building_Stairs
+    400042: Large_Building:pCube10
+    400044: Large_Building:pCube58
+    400046: Large_Building:pCube58 1
+    400048: Large_Building:pCube9
+    400050: Large_Building:pCylinder1
+    400052: Large_Building:pCylinder22
+    400054: Large_Building:pCylinder23
+    400056: Large_Building:pCylinder24
+    400058: Large_Building:polySurface1
+    400060: Large_Building:polySurface2
+    400062: Large_Building:Right_Building
+    400064: Large_Building:Right_River
+    400066: Large_Building:Statue
+    400068: Large_Building:Temple_Level
+    400070: LavaStatue:pCube2
+    400072: LavaStatue:pCube3
+    400074: Main_Building
+    400076: pCube1
+    400078: pCube56
+    400080: pCylinder1
+    400082: polySurface1
+    400084: polySurface2
+    400086: Rope_Bridge1
+    400088: transform1
+    2300000: Large_Building:L_Gate_Ctrl
+    2300002: Large_Building:Lava1
+    2300004: Large_Building:pCube58
+    2300006: Large_Building:pCube58 1
+    2300008: Large_Building:pCylinder22
+    2300010: Large_Building:pCylinder23
+    2300012: Large_Building:pCylinder24
+    2300014: LavaStatue:pCube2
+    2300016: LavaStatue:pCube3
+    3300000: Large_Building:L_Gate_Ctrl
+    3300002: Large_Building:Lava1
+    3300004: Large_Building:pCube58
+    3300006: Large_Building:pCube58 1
+    3300008: Large_Building:pCylinder22
+    3300010: Large_Building:pCylinder23
+    3300012: Large_Building:pCylinder24
+    3300014: LavaStatue:pCube2
+    3300016: LavaStatue:pCube3
+    4300000: Large_Building:pCylinder22
+    4300002: Large_Building:pCylinder23
+    4300004: Large_Building:pCylinder24
+    4300006: Large_Building:Lava1
+    4300008: Large_Building:pCube58
+    4300010: Large_Building:pCube58
+    4300012: LavaStatue:pCube2
+    4300014: LavaStatue:pCube3
+    4300016: Large_Building:L_Gate_Ctrl
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

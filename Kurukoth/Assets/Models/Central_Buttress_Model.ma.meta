@@ -1,0 +1,336 @@
+fileFormatVersion: 2
+guid: 9570cad924fc942c6b4def0ef217d32e
+timeCreated: 1519930552
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Central_Buttress_Model_03:Buttress_Center
+    100004: Central_Buttress_Model_03:Buttress_Rubble
+    100006: Central_Buttress_Model_03:Fence01
+    100008: Central_Buttress_Model_03:Fence01 1
+    100010: Central_Buttress_Model_03:Fence02
+    100012: Central_Buttress_Model_03:Fence02 1
+    100014: Central_Buttress_Model_03:Fence03
+    100016: Central_Buttress_Model_03:Fence04
+    100018: Central_Buttress_Model_03:Floor_Geo
+    100020: Central_Buttress_Model_03:Gate_Fence
+    100022: Central_Buttress_Model_03:Hole
+    100024: Central_Buttress_Model_03:L_Barrier
+    100026: Central_Buttress_Model_03:Large_Building:Central_Buttress
+    100028: Central_Buttress_Model_03:Large_Building:Gate
+    100030: Central_Buttress_Model_03:Large_Building:Large_Building:L_Gate
+    100032: Central_Buttress_Model_03:Large_Building:Large_Building:Large_Building:Large_Building:Ornament_Spike
+    100034: Central_Buttress_Model_03:Large_Building:Large_Building:Lock
+    100036: Central_Buttress_Model_03:Large_Building:Large_Building:Lock 1
+    100038: Central_Buttress_Model_03:Large_Building:Large_Building:Lockbar
+    100040: Central_Buttress_Model_03:Large_Building:Large_Building:Main_Gate
+    100042: Central_Buttress_Model_03:Large_Building:Large_Building:R_Gate
+    100044: Central_Buttress_Model_03:Large_Building:Large_Building:Right_River
+    100046: Central_Buttress_Model_03:Large_Building:Lava_River
+    100048: Central_Buttress_Model_03:Large_Building:Ornament
+    100050: Central_Buttress_Model_03:Large_Building:Ornament1
+    100052: Central_Buttress_Model_03:Large_Building:Ornament2
+    100054: Central_Buttress_Model_03:Large_Building:Ornament3
+    100056: Central_Buttress_Model_03:Large_Building:pCylinder13
+    100058: Central_Buttress_Model_03:Large_Building:Post
+    100060: Central_Buttress_Model_03:Large_Building:Post1
+    100062: Central_Buttress_Model_03:Large_Building:Post2
+    100064: Central_Buttress_Model_03:Large_Building:Post3
+    100066: Central_Buttress_Model_03:Large_Building:River_Bed
+    100068: Central_Buttress_Model_03:Large_Building:RiverPipe
+    100070: Central_Buttress_Model_03:Large_Building:small_Brg
+    100072: Central_Buttress_Model_03:Large_Building:Small_Bridge
+    100074: Central_Buttress_Model_03:Lava_River
+    100076: Central_Buttress_Model_03:LavaStatue:Hole
+    100078: Central_Buttress_Model_03:Left_River
+    100080: Central_Buttress_Model_03:Main_Structure
+    100082: Central_Buttress_Model_03:Ornament
+    100084: Central_Buttress_Model_03:Ornament1
+    100086: Central_Buttress_Model_03:Ornament2
+    100088: Central_Buttress_Model_03:Ornament3
+    100090: Central_Buttress_Model_03:pCylinder13
+    100092: Central_Buttress_Model_03:pCylinder13 1
+    100094: Central_Buttress_Model_03:pCylinder13 2
+    100096: Central_Buttress_Model_03:Post
+    100098: Central_Buttress_Model_03:Post1
+    100100: Central_Buttress_Model_03:Post2
+    100102: Central_Buttress_Model_03:Post3
+    100104: Central_Buttress_Model_03:R_Barrier
+    100106: Central_Buttress_Model_03:River_Bed
+    100108: Central_Buttress_Model_03:RiverPipe
+    100110: Central_Buttress_Model_03:small_Brg
+    100112: Central_Buttress_Model_03:Small_Bridge
+    100114: Central_Buttress_Model_03:Walls_Geo
+    100116: Floor_Edging
+    400000: //RootNode
+    400002: Central_Buttress_Model_03:Buttress_Center
+    400004: Central_Buttress_Model_03:Buttress_Rubble
+    400006: Central_Buttress_Model_03:Fence01
+    400008: Central_Buttress_Model_03:Fence01 1
+    400010: Central_Buttress_Model_03:Fence02
+    400012: Central_Buttress_Model_03:Fence02 1
+    400014: Central_Buttress_Model_03:Fence03
+    400016: Central_Buttress_Model_03:Fence04
+    400018: Central_Buttress_Model_03:Floor_Geo
+    400020: Central_Buttress_Model_03:Gate_Fence
+    400022: Central_Buttress_Model_03:Hole
+    400024: Central_Buttress_Model_03:L_Barrier
+    400026: Central_Buttress_Model_03:Large_Building:Central_Buttress
+    400028: Central_Buttress_Model_03:Large_Building:Gate
+    400030: Central_Buttress_Model_03:Large_Building:Large_Building:L_Gate
+    400032: Central_Buttress_Model_03:Large_Building:Large_Building:Large_Building:Large_Building:Ornament_Spike
+    400034: Central_Buttress_Model_03:Large_Building:Large_Building:Lock
+    400036: Central_Buttress_Model_03:Large_Building:Large_Building:Lock 1
+    400038: Central_Buttress_Model_03:Large_Building:Large_Building:Lockbar
+    400040: Central_Buttress_Model_03:Large_Building:Large_Building:Main_Gate
+    400042: Central_Buttress_Model_03:Large_Building:Large_Building:R_Gate
+    400044: Central_Buttress_Model_03:Large_Building:Large_Building:Right_River
+    400046: Central_Buttress_Model_03:Large_Building:Lava_River
+    400048: Central_Buttress_Model_03:Large_Building:Ornament
+    400050: Central_Buttress_Model_03:Large_Building:Ornament1
+    400052: Central_Buttress_Model_03:Large_Building:Ornament2
+    400054: Central_Buttress_Model_03:Large_Building:Ornament3
+    400056: Central_Buttress_Model_03:Large_Building:pCylinder13
+    400058: Central_Buttress_Model_03:Large_Building:Post
+    400060: Central_Buttress_Model_03:Large_Building:Post1
+    400062: Central_Buttress_Model_03:Large_Building:Post2
+    400064: Central_Buttress_Model_03:Large_Building:Post3
+    400066: Central_Buttress_Model_03:Large_Building:River_Bed
+    400068: Central_Buttress_Model_03:Large_Building:RiverPipe
+    400070: Central_Buttress_Model_03:Large_Building:small_Brg
+    400072: Central_Buttress_Model_03:Large_Building:Small_Bridge
+    400074: Central_Buttress_Model_03:Lava_River
+    400076: Central_Buttress_Model_03:LavaStatue:Hole
+    400078: Central_Buttress_Model_03:Left_River
+    400080: Central_Buttress_Model_03:Main_Structure
+    400082: Central_Buttress_Model_03:Ornament
+    400084: Central_Buttress_Model_03:Ornament1
+    400086: Central_Buttress_Model_03:Ornament2
+    400088: Central_Buttress_Model_03:Ornament3
+    400090: Central_Buttress_Model_03:pCylinder13
+    400092: Central_Buttress_Model_03:pCylinder13 1
+    400094: Central_Buttress_Model_03:pCylinder13 2
+    400096: Central_Buttress_Model_03:Post
+    400098: Central_Buttress_Model_03:Post1
+    400100: Central_Buttress_Model_03:Post2
+    400102: Central_Buttress_Model_03:Post3
+    400104: Central_Buttress_Model_03:R_Barrier
+    400106: Central_Buttress_Model_03:River_Bed
+    400108: Central_Buttress_Model_03:RiverPipe
+    400110: Central_Buttress_Model_03:small_Brg
+    400112: Central_Buttress_Model_03:Small_Bridge
+    400114: Central_Buttress_Model_03:Walls_Geo
+    400116: Floor_Edging
+    2300000: Central_Buttress_Model_03:Buttress_Rubble
+    2300002: Central_Buttress_Model_03:Fence01
+    2300004: Central_Buttress_Model_03:Fence01 1
+    2300006: Central_Buttress_Model_03:Fence02
+    2300008: Central_Buttress_Model_03:Fence02 1
+    2300010: Central_Buttress_Model_03:Fence03
+    2300012: Central_Buttress_Model_03:Fence04
+    2300014: Central_Buttress_Model_03:Floor_Geo
+    2300016: Central_Buttress_Model_03:Hole
+    2300018: Central_Buttress_Model_03:Large_Building:Large_Building:L_Gate
+    2300020: Central_Buttress_Model_03:Large_Building:Large_Building:Large_Building:Large_Building:Ornament_Spike
+    2300022: Central_Buttress_Model_03:Large_Building:Large_Building:Lock 1
+    2300024: Central_Buttress_Model_03:Large_Building:Large_Building:Lockbar
+    2300026: Central_Buttress_Model_03:Large_Building:Large_Building:R_Gate
+    2300028: Central_Buttress_Model_03:Large_Building:Lava_River
+    2300030: Central_Buttress_Model_03:Large_Building:Ornament
+    2300032: Central_Buttress_Model_03:Large_Building:Ornament1
+    2300034: Central_Buttress_Model_03:Large_Building:Ornament2
+    2300036: Central_Buttress_Model_03:Large_Building:Ornament3
+    2300038: Central_Buttress_Model_03:Large_Building:pCylinder13
+    2300040: Central_Buttress_Model_03:Large_Building:Post
+    2300042: Central_Buttress_Model_03:Large_Building:Post1
+    2300044: Central_Buttress_Model_03:Large_Building:Post2
+    2300046: Central_Buttress_Model_03:Large_Building:Post3
+    2300048: Central_Buttress_Model_03:Large_Building:River_Bed
+    2300050: Central_Buttress_Model_03:Large_Building:RiverPipe
+    2300052: Central_Buttress_Model_03:Large_Building:small_Brg
+    2300054: Central_Buttress_Model_03:Lava_River
+    2300056: Central_Buttress_Model_03:LavaStatue:Hole
+    2300058: Central_Buttress_Model_03:Ornament
+    2300060: Central_Buttress_Model_03:Ornament1
+    2300062: Central_Buttress_Model_03:Ornament2
+    2300064: Central_Buttress_Model_03:Ornament3
+    2300066: Central_Buttress_Model_03:pCylinder13
+    2300068: Central_Buttress_Model_03:pCylinder13 1
+    2300070: Central_Buttress_Model_03:pCylinder13 2
+    2300072: Central_Buttress_Model_03:Post
+    2300074: Central_Buttress_Model_03:Post1
+    2300076: Central_Buttress_Model_03:Post2
+    2300078: Central_Buttress_Model_03:Post3
+    2300080: Central_Buttress_Model_03:River_Bed
+    2300082: Central_Buttress_Model_03:RiverPipe
+    2300084: Central_Buttress_Model_03:small_Brg
+    2300086: Central_Buttress_Model_03:Walls_Geo
+    2300088: Floor_Edging
+    3300000: Central_Buttress_Model_03:Buttress_Rubble
+    3300002: Central_Buttress_Model_03:Fence01
+    3300004: Central_Buttress_Model_03:Fence01 1
+    3300006: Central_Buttress_Model_03:Fence02
+    3300008: Central_Buttress_Model_03:Fence02 1
+    3300010: Central_Buttress_Model_03:Fence03
+    3300012: Central_Buttress_Model_03:Fence04
+    3300014: Central_Buttress_Model_03:Floor_Geo
+    3300016: Central_Buttress_Model_03:Hole
+    3300018: Central_Buttress_Model_03:Large_Building:Large_Building:L_Gate
+    3300020: Central_Buttress_Model_03:Large_Building:Large_Building:Large_Building:Large_Building:Ornament_Spike
+    3300022: Central_Buttress_Model_03:Large_Building:Large_Building:Lock 1
+    3300024: Central_Buttress_Model_03:Large_Building:Large_Building:Lockbar
+    3300026: Central_Buttress_Model_03:Large_Building:Large_Building:R_Gate
+    3300028: Central_Buttress_Model_03:Large_Building:Lava_River
+    3300030: Central_Buttress_Model_03:Large_Building:Ornament
+    3300032: Central_Buttress_Model_03:Large_Building:Ornament1
+    3300034: Central_Buttress_Model_03:Large_Building:Ornament2
+    3300036: Central_Buttress_Model_03:Large_Building:Ornament3
+    3300038: Central_Buttress_Model_03:Large_Building:pCylinder13
+    3300040: Central_Buttress_Model_03:Large_Building:Post
+    3300042: Central_Buttress_Model_03:Large_Building:Post1
+    3300044: Central_Buttress_Model_03:Large_Building:Post2
+    3300046: Central_Buttress_Model_03:Large_Building:Post3
+    3300048: Central_Buttress_Model_03:Large_Building:River_Bed
+    3300050: Central_Buttress_Model_03:Large_Building:RiverPipe
+    3300052: Central_Buttress_Model_03:Large_Building:small_Brg
+    3300054: Central_Buttress_Model_03:Lava_River
+    3300056: Central_Buttress_Model_03:LavaStatue:Hole
+    3300058: Central_Buttress_Model_03:Ornament
+    3300060: Central_Buttress_Model_03:Ornament1
+    3300062: Central_Buttress_Model_03:Ornament2
+    3300064: Central_Buttress_Model_03:Ornament3
+    3300066: Central_Buttress_Model_03:pCylinder13
+    3300068: Central_Buttress_Model_03:pCylinder13 1
+    3300070: Central_Buttress_Model_03:pCylinder13 2
+    3300072: Central_Buttress_Model_03:Post
+    3300074: Central_Buttress_Model_03:Post1
+    3300076: Central_Buttress_Model_03:Post2
+    3300078: Central_Buttress_Model_03:Post3
+    3300080: Central_Buttress_Model_03:River_Bed
+    3300082: Central_Buttress_Model_03:RiverPipe
+    3300084: Central_Buttress_Model_03:small_Brg
+    3300086: Central_Buttress_Model_03:Walls_Geo
+    3300088: Floor_Edging
+    4300000: Central_Buttress_Model_03:Walls_Geo
+    4300002: Floor_Edging
+    4300004: Central_Buttress_Model_03:Floor_Geo
+    4300006: Central_Buttress_Model_03:Large_Building:Large_Building:L_Gate
+    4300008: Central_Buttress_Model_03:Large_Building:Large_Building:R_Gate
+    4300010: Central_Buttress_Model_03:Large_Building:pCylinder13
+    4300012: Central_Buttress_Model_03:Large_Building:Large_Building:Large_Building:Large_Building:Ornament_Spike
+    4300014: Central_Buttress_Model_03:Large_Building:Large_Building:Lock
+    4300016: Central_Buttress_Model_03:Large_Building:Large_Building:Lockbar
+    4300018: Central_Buttress_Model_03:Fence04
+    4300020: Central_Buttress_Model_03:Fence03
+    4300022: Central_Buttress_Model_03:pCylinder13
+    4300024: Central_Buttress_Model_03:Large_Building:River_Bed
+    4300026: Central_Buttress_Model_03:Large_Building:Lava_River
+    4300028: Central_Buttress_Model_03:Large_Building:Post
+    4300030: Central_Buttress_Model_03:Large_Building:Post1
+    4300032: Central_Buttress_Model_03:Large_Building:Post2
+    4300034: Central_Buttress_Model_03:Large_Building:Post3
+    4300036: Central_Buttress_Model_03:Large_Building:Ornament
+    4300038: Central_Buttress_Model_03:Large_Building:Ornament1
+    4300040: Central_Buttress_Model_03:Large_Building:Ornament2
+    4300042: Central_Buttress_Model_03:Large_Building:Ornament3
+    4300044: Central_Buttress_Model_03:Large_Building:small_Brg
+    4300046: Central_Buttress_Model_03:Large_Building:RiverPipe
+    4300048: Central_Buttress_Model_03:LavaStatue:Hole
+    4300050: Central_Buttress_Model_03:Buttress_Rubble
+    4300052: Central_Buttress_Model_03:pCylinder13
+    4300054: Central_Buttress_Model_03:Fence01
+    4300056: Central_Buttress_Model_03:Fence02
+    4300058: Central_Buttress_Model_03:River_Bed
+    4300060: Central_Buttress_Model_03:Lava_River
+    4300062: Central_Buttress_Model_03:Post
+    4300064: Central_Buttress_Model_03:Post1
+    4300066: Central_Buttress_Model_03:Post2
+    4300068: Central_Buttress_Model_03:Post3
+    4300070: Central_Buttress_Model_03:Ornament
+    4300072: Central_Buttress_Model_03:Ornament1
+    4300074: Central_Buttress_Model_03:Ornament2
+    4300076: Central_Buttress_Model_03:Ornament3
+    4300078: Central_Buttress_Model_03:small_Brg
+    4300080: Central_Buttress_Model_03:RiverPipe
+    4300082: Central_Buttress_Model_03:Hole
+    4300084: Central_Buttress_Model_03:pCylinder13
+    4300086: Central_Buttress_Model_03:Fence01
+    4300088: Central_Buttress_Model_03:Fence02
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

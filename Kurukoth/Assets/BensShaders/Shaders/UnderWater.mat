@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: UnderWater
+  m_Shader: {fileID: 4800000, guid: 7c5abe0ff7537bd4881cf254b226d635, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _DispNormal:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DispTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Refract:
+        m_Texture: {fileID: 2800000, guid: 9765bf16fc67d4059a1eb7cb71e326de, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Amount: 0.4
+    - _Depth: 2
+    - _DepthMax: 0
+    - _Discolor: 10
+    - _DisplaceRange: 10
+    - _DistSpeed: 0.8
+    - _Distort: 0.02
+    - _High: 0
+    - _ScrollSpeedU: 1
+    - _ScrollSpeedV: -1
+    - _Vis: 1
+    - _WaveShift: 1.14
+    m_Colors:
+    - _HighColor: {r: 1, g: 1, b: 1, a: 1}
+    - _WaterDark: {r: 0, g: 0, b: 0, a: 1}
+    - _WaterLight: {r: 0.4044118, g: 0.4044118, b: 0.4044118, a: 1}
