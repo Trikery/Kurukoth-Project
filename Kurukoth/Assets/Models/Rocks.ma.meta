@@ -289,6 +289,12 @@ ModelImporter:
     2300148: polySurface7
     2300150: polySurface8
     2300152: polySurface9
+    2300154: Basalt_02_Geo
+    2300156: Basalt_03_Geo
+    2300158: Basalt_04_Geo
+    2300160: Basalt_05_Geo
+    2300162: Basalt_06_Geo
+    2300164: Basalt_07_Geo
     3300000: Basalt_01_Geo
     3300002: Basalt_01_Geo 1
     3300004: Basalt_02_Geo 1
@@ -366,6 +372,12 @@ ModelImporter:
     3300148: polySurface7
     3300150: polySurface8
     3300152: polySurface9
+    3300154: Basalt_02_Geo
+    3300156: Basalt_03_Geo
+    3300158: Basalt_04_Geo
+    3300160: Basalt_05_Geo
+    3300162: Basalt_06_Geo
+    3300164: Basalt_07_Geo
     4300000: Obsidian_01_Geo
     4300002: Obsidian_02_Geo
     4300004: Obsidian_03_Geo
