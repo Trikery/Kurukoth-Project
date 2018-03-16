@@ -94,7 +94,7 @@ MonoBehaviour:
       adaptationType: 0
       speedUp: 2
       speedDown: 1
-      logMin: -8
+      logMin: -13
       logMax: 4
   bloom:
     m_Enabled: 1
@@ -102,7 +102,7 @@ MonoBehaviour:
       bloom:
         intensity: 0.15
         threshold: 1.1
-        softKnee: 0.5
+        softKnee: 0.446
         radius: 4
         antiFlicker: 0
       lensDirt:
